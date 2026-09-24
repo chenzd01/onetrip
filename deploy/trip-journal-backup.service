@@ -1,0 +1,8 @@
+[Unit]
+Description=Daily backup of the shared trip database
+[Service]
+Type=oneshot
+User=trip-journal
+Group=trip-journal
+UMask=0077
+ExecStart=/usr/bin/python3 /opt/trip-journal/server/trip_server.py backup --data-dir /var/lib/trip-journal --output /var/lib/trip-journal/daily-backup.sqlite3

@@ -1,0 +1,40 @@
+{
+  "note": "京都 3 日示例行程：同区域聚类、站间留交通缓冲、每天写雨天替换。时间为规划判断，开放时间以 places.json 中的官方口径为准；uid 发布后不要改。",
+  "days": [
+    {
+      "date": "2027-11-16", "title": "千本鸟居与东山", "area": "伏见 → 东山 → 祇园",
+      "note": "一早去伏见稻荷，避开 9 点后的人潮；中午前到清水寺，下午沿二年坂、三年坂走到八坂神社和祇园。雨天：伏见稻荷只走到奥社奉拜所即折返，下午改为锦市场和室内的鍵善良房。",
+      "items": [
+        { "uid": "d1-fushimi", "place": "fushimi-inari", "time": "07:30", "note": "JR 奈良线「稲荷」站出站即到", "durationMinutes": 150 },
+        { "uid": "d1-kiyomizu", "place": "kiyomizu-dera", "time": "10:45", "note": "京阪「清水五条」站步行上坡约 25 分钟", "durationMinutes": 90 },
+        { "uid": "d1-sannenzaka", "place": "sannenzaka", "time": "12:15", "note": "沿坡边走边吃，当作简单午餐", "durationMinutes": 60 },
+        { "uid": "d1-yasaka", "place": "yasaka-shrine", "time": "13:30", "note": "", "durationMinutes": 30 },
+        { "uid": "d1-kagizen", "place": "kagizen-yoshifusa-shijo", "time": "14:15", "note": "葛切下午茶，喫茶不接受预约", "durationMinutes": 45 },
+        { "uid": "d1-gion", "place": "gion-hanamikoji", "time": "16:00", "note": "私道不拍照、不驻足，不拍艺妓舞妓", "durationMinutes": 60 }
+      ]
+    },
+    {
+      "date": "2027-11-17", "title": "岚山清晨与金阁寺", "area": "岚山 → 北区 → 河原町",
+      "note": "清晨先走竹林，8:30 从北门进天龙寺；午饭在岚山吃汤豆腐，下午去金阁寺，傍晚逛锦市场，晚饭在先斗町。雨天：竹林和天龙寺照走，雨中的庭园另有味道；锦市场有顶棚，下午可以多留些时间在这里。",
+      "items": [
+        { "uid": "d2-bamboo", "place": "arashiyama-bamboo", "time": "07:45", "note": "JR 嵯峨野线「嵯峨嵐山」站步行约 13 分钟", "durationMinutes": 45 },
+        { "uid": "d2-tenryuji", "place": "tenryu-ji", "time": "08:40", "note": "从竹林旁的北门进入庭园", "durationMinutes": 90 },
+        { "uid": "d2-lunch", "place": "yudofu-sagano", "time": "11:00", "note": "开门即入；想吃精进料理可换天龙寺篩月（需提前预约）", "durationMinutes": 75 },
+        { "uid": "d2-kinkaku", "place": "kinkaku-ji", "time": "13:15", "note": "岚山到金阁寺巴士或出租车约 40 分钟（规划估计）", "durationMinutes": 60 },
+        { "uid": "d2-nishiki", "place": "nishiki-market", "time": "15:15", "note": "站在店前吃完再走，不边走边吃", "durationMinutes": 90 },
+        { "uid": "d2-dinner", "place": "omen-pontocho", "time": "18:00", "note": "周三正常营业，不接受预约", "durationMinutes": 60 }
+      ]
+    },
+    {
+      "date": "2027-11-18", "title": "二条城与哲学之道", "area": "中京 → 乌丸 → 左京",
+      "note": "二条城开城即入（11/16 本丸御殿休，所以放在今天）；午饭在乌丸吃家常菜定食，下午看银阁寺，再沿哲学之道往南走。傍晚回京都站去关西机场，留足返程余量。雨天：二条城御殿在室内照常参观，哲学之道缩短为银阁寺前一段。",
+      "items": [
+        { "uid": "d3-nijo", "place": "nijo-castle", "time": "08:45", "note": "地铁东西线「二条城前」站下车即到", "durationMinutes": 120 },
+        { "uid": "d3-lunch", "place": "kyosaimi-nomura-karasuma", "time": "11:15", "note": "", "durationMinutes": 60 },
+        { "uid": "d3-ginkaku", "place": "ginkaku-ji", "time": "13:15", "note": "乌丸到银阁寺巴士约 45 分钟（规划估计）", "durationMinutes": 60 },
+        { "uid": "d3-philosophers", "place": "philosophers-path", "time": "14:15", "note": "由北往南走，终点附近可接南禅寺方向", "durationMinutes": 75 }
+      ]
+    }
+  ],
+  "budget": { "flightOut": 0, "flightReturn": 0, "hotel": 90000, "food": 36000, "transport": 8000, "other": 12000 }
+}

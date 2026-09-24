@@ -1,0 +1,9 @@
+// Defaults; Signing.xcconfig (required, git-ignored) and SharedAccess.xcconfig (optional,
+// git-ignored) override them. Generated.xcconfig is written from content/trip.json.
+APP_DISPLAY_NAME = 旅行手帐
+APP_BUNDLE_ID = com.example.tripjournal
+TRIP_SERVER_URL =
+TRIP_SHARED_ACCESS_KEY =
+#include? "Generated.xcconfig"
+#include "Signing.xcconfig"
+#include? "SharedAccess.xcconfig"

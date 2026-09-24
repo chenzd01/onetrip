@@ -1,0 +1,29 @@
+.DS_Store
+__pycache__/
+*.pyc
+test-results/
+build/
+
+# Machine-local signing, server secrets and anything derived from content/.
+ios/Signing.xcconfig
+ios/SharedAccess.xcconfig
+ios/Generated.xcconfig
+ios/TripJournal/Resources/Content/
+# The Xcode project is generated from ios/project.yml; never commit it (it records your Team ID).
+ios/*.xcodeproj/
+ios/build/
+ios/DerivedData/
+*.xcuserstate
+xcuserdata/
+.xcodebuildmcp/
+
+# Local privacy denylist used by scripts/privacy_check.py; it contains private strings.
+.privacy-denylist
+*.p8
+*.env
+!deploy/*.env.example
+*.sqlite3*
+data/
+
+# Originals downloaded by scripts/build_photos.py; only the optimized copies in content/media/ are committed.
+.photo-cache/

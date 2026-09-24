@@ -1,0 +1,69 @@
+{
+  "note": "本仓库原创的两篇示例攻略（不是社交平台帖子）。正文依据 places.json、dining.json 中已核对的官方信息撰写；配图来自 Wikimedia Commons，署名写在正文末尾。",
+  "posts": [
+    {
+      "id": "fushimi-inari-trail",
+      "platform": "原创",
+      "title": "伏见稻荷：清晨上山、避开人潮的走法",
+      "author": "OneTrip 示例",
+      "date": "2026-09-24",
+      "heat": "本仓库原创示例，不是社交平台帖子",
+      "url": "https://github.com/chenzd01/onetrip/blob/main/docs/research/kyoto/README.md",
+      "capturedAt": "2026-09-24",
+      "categories": [
+        "目的地",
+        "拍照"
+      ],
+      "summary": "7:00–8:00 到本殿开始上山；按体力在奥社奉拝所、熊鹰社或山上环线折返；天黑前下山。",
+      "body": "为什么要早：伏见稻荷境内不闭门，想拍人少的鸟居，建议 7:00–8:00 到本殿开始上山（规划判断，不保证人少）。京都市官方指南建议从京都站坐 JR 奈良线到「稲荷」站，出站就是参道。\n\n怎么选折返点：只想拍鸟居隧道，走到奥社奉拝所（おもかる石）就原路返回，约 40–60 分钟；想更安静，继续上到熊鹰社・新池，约 1–1.5 小时；体力好就走完「お山めぐり」山上环线，官方口径约 4 km、约 2 小时。以上时长含规划估计。\n\n拍照小贴士：鸟居隧道是参拜通道，拍照别长时间占住；山上有能俯瞰京都市区的地方（见第 2 张配图）。\n\n注意：11 月日落早，官网没有写明山道夜间照明，建议天黑前下山；这一带属于京都市「美化推进区域」，乱丢垃圾最高可罚 3 万日元。以上信息核对于 2026-09-24，出发前请再看一次官网。\n\n配图：稻荷山“御山参道”上的连排鸟居与石阶，Balon Greyjoy，CC0 1.0，https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_Torii_13.jpg；从稻荷山上俯瞰京都市区，Jakub Hałun，CC BY 4.0，https://commons.wikimedia.org/wiki/File:View_of_Kyoto_from_Mount_Inari,_20240818_1438_4551.jpg",
+      "images": [
+        {
+          "file": "media/posts/fushimi-inari-trail/01.jpg",
+          "order": 1
+        },
+        {
+          "file": "media/posts/fushimi-inari-trail/02.jpg",
+          "order": 2
+        }
+      ],
+      "guidePlaces": [
+        "fushimi-inari"
+      ]
+    },
+    {
+      "id": "kyoto-autumn-3days",
+      "platform": "原创",
+      "title": "红叶季京都三日：这条路线是怎么排出来的",
+      "author": "OneTrip 示例",
+      "date": "2026-09-24",
+      "heat": "本仓库原创示例，不是社交平台帖子",
+      "url": "https://github.com/chenzd01/onetrip/blob/main/docs/research/kyoto/README.md",
+      "capturedAt": "2026-09-24",
+      "categories": [
+        "整体"
+      ],
+      "summary": "东山、岚山、左京各占半天到一天；每天早起避开人潮，闭馆日和定休日决定了先后顺序。",
+      "body": "第一天：伏见稻荷 → 清水寺 → 二年坂・三年坂 → 八坂神社 → 花见小路。清晨先去不闭门的伏见稻荷，中午前到清水寺，下午一路下坡走到祇园，节奏最省力。\n\n第二天：岚山竹林 → 天龙寺 → 汤豆腐午餐 → 金阁寺 → 锦市场 → 先斗町晚餐。竹林清晨人少，天龙寺 8:30 开门可以从北门直接进庭园；先斗町的乌冬店官网写周四可能休息，所以放在周三晚上。\n\n第三天：二条城 → 乌丸午餐 → 银阁寺 → 哲学之道。二条城本丸御殿每月第 3 个周一及次日休，2027 年 11 月 16 日正好是休息日，所以二条城放在最后一天。\n\n几个出发前要复核的点：清水寺 2026 年秋季夜间特别拜观是 11/21–11/30，2027 年日期未公布；天龙寺法堂云龙图平日是否开放取决于当年的秋季特别参拜期；银阁寺自 2026-04-01 起成人票 1,000 日元；金阁寺官方 FAQ 表示不接受以公开发布（含社交媒体）为目的的拍摄。\n\n每个地点的开放时间、票价和来源都在「探索 › 地点」里，完整调研记录在仓库的 docs/research/kyoto/。\n\n配图：东福寺通天桥一带的红叶，663highland，CC BY 2.5，https://commons.wikimedia.org/wiki/File:Tofukuji_Kyoto01bs3200.jpg；岚山秋色：从高处西望天龙寺一带屋顶与岚山，Rosewoman，CC BY 2.0，https://commons.wikimedia.org/wiki/File:Sh%C5%8Dry%C5%ABen,_Arashiyama,_Ky%C5%8Dto_-_Nov_27,_2018.jpg",
+      "images": [
+        {
+          "file": "media/posts/kyoto-autumn-3days/01.jpg",
+          "order": 1
+        },
+        {
+          "file": "media/posts/kyoto-autumn-3days/02.jpg",
+          "order": 2
+        }
+      ],
+      "guidePlaces": [
+        "fushimi-inari",
+        "kiyomizu-dera",
+        "arashiyama-bamboo",
+        "tenryu-ji",
+        "kinkaku-ji",
+        "nijo-castle",
+        "ginkaku-ji",
+        "philosophers-path"
+      ]
+    }
+  ]
+}

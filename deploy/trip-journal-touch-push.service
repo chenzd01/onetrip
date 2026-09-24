@@ -1,0 +1,24 @@
+[Unit]
+Description=Trip journal couple-touch APNs queue
+After=network-online.target trip-journal.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=trip-journal
+Group=trip-journal
+WorkingDirectory=/opt/trip-journal
+# TOUCH_APNS_TEAM_ID, TOUCH_APNS_KEY_ID, TOUCH_APNS_KEY_PATH, TOUCH_APNS_TOPIC; see deploy/trip-touch.env.example
+EnvironmentFile=/etc/trip-journal-touch.env
+ExecStart=/opt/trip-journal/.venv-touch/bin/python server/touch_push.py --db /var/lib/trip-journal/trip.sqlite3
+Restart=on-failure
+RestartSec=5
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/trip-journal
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,293 @@
+{
+  "note": "全部照片来自 Wikimedia Commons，2026-09-24 逐张打开文件页核对许可证、作者、拍摄日期与原图分辨率（均 ≥1600 px 宽），并在浏览器里目视检查缩略图（无水印、非人物特写、非夜景）。每个相册第一张为封面。downloadUrl 使用 Commons 标准 1280 px 缩略图：Wikimedia 现只允许 20/40/60/120/250/330/500/960/1280/1920/3840 px 等标准尺寸直链，1600 px 会返回 HTTP 400；1280 px 已足够 build_photos.py 压到 1200 px。CC BY 系列要求署名：App 内需显示 creator、license 并链接 sourceUrl/licenseUrl。663highland 的图为 GFDL / CC BY-SA 3.0 / CC BY 2.5 多重许可，这里选用 CC BY 2.5。本包不含 CC BY-SA 图片。",
+  "albums": {
+    "fushimi-inari": {
+      "photos": [
+        {
+          "file": "media/photos/fushimi-inari-1.jpg",
+          "caption": "伏见稻荷大社千本鸟居，朱红鸟居连成的参道",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Senbon_Torii_at_Fushimi_Inari_Taisha,_Kyoto;_September_2014.jpg",
+          "creator": "ot0rip 604 from Japan",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2014-09-09",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Senbon_Torii_at_Fushimi_Inari_Taisha%2C_Kyoto%3B_September_2014.jpg/1280px-Senbon_Torii_at_Fushimi_Inari_Taisha%2C_Kyoto%3B_September_2014.jpg"
+        },
+        {
+          "file": "media/photos/fushimi-inari-2.jpg",
+          "caption": "伏见稻荷大社二之鸟居，后方为楼门",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_Torii_1.jpg",
+          "creator": "Balon Greyjoy",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "date": "2018-11-10",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/20181110_Fushimi_Inari_Torii_1.jpg/1280px-20181110_Fushimi_Inari_Torii_1.jpg"
+        }
+      ]
+    },
+    "kiyomizu-dera": {
+      "photos": [
+        {
+          "file": "media/photos/kiyomizu-dera-1.jpg",
+          "caption": "从奥之院方向望清水寺本堂与“清水舞台”（5 月新绿）",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera_(18199680391).jpg",
+          "creator": "Reginald Pentinio",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2015-05-03",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kiyomizu-dera_%2818199680391%29.jpg/1280px-Kiyomizu-dera_%2818199680391%29.jpg"
+        },
+        {
+          "file": "media/photos/kiyomizu-dera-2.jpg",
+          "caption": "清水寺仁王门外观",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_a_Buddhist_temple_in_eastern_Kyoto,_Kyoto_Prefecture;_September_2008_(01).jpg",
+          "creator": "RomanKetchup",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2008-09-09",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Kiyomizu-dera%2C_a_Buddhist_temple_in_eastern_Kyoto%2C_Kyoto_Prefecture%3B_September_2008_%2801%29.jpg/1280px-Kiyomizu-dera%2C_a_Buddhist_temple_in_eastern_Kyoto%2C_Kyoto_Prefecture%3B_September_2008_%2801%29.jpg"
+        }
+      ]
+    },
+    "sannenzaka": {
+      "photos": [
+        {
+          "file": "media/photos/sannenzaka-1.jpg",
+          "caption": "东山三年坂（产宁坂）的石阶与两侧町屋",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dans_le_quartier_d%27Higashiyama_%C3%A0_Kyoto_(Japon)_(43134407431).jpg",
+          "creator": "Jean-Pierre Dalbéra from Paris, France",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2018-05-14",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Dans_le_quartier_d%27Higashiyama_%C3%A0_Kyoto_%28Japon%29_%2843134407431%29.jpg/1280px-Dans_le_quartier_d%27Higashiyama_%C3%A0_Kyoto_%28Japon%29_%2843134407431%29.jpg"
+        },
+        {
+          "file": "media/photos/sannenzaka-2.jpg",
+          "caption": "三年坂街道两侧的店铺与往来游客",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sannenzaka_street,_Kyoto_(3811257874).jpg",
+          "creator": "Andrea Schaffer from Sydney, Australia",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2009-07-30",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sannenzaka_street%2C_Kyoto_%283811257874%29.jpg/1280px-Sannenzaka_street%2C_Kyoto_%283811257874%29.jpg"
+        }
+      ]
+    },
+    "yasaka-shrine": {
+      "photos": [
+        {
+          "file": "media/photos/yasaka-shrine-1.jpg",
+          "caption": "八坂神社西楼门，位于四条通东端",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nishiromon_Gate,_Yasaka_Shrine,_Kyoto,_20240820_1721_5183.jpg",
+          "creator": "Jakub Hałun",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "date": "2024-08-20",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Nishiromon_Gate%2C_Yasaka_Shrine%2C_Kyoto%2C_20240820_1721_5183.jpg/1280px-Nishiromon_Gate%2C_Yasaka_Shrine%2C_Kyoto%2C_20240820_1721_5183.jpg"
+        },
+        {
+          "file": "media/photos/yasaka-shrine-2.jpg",
+          "caption": "八坂神社舞殿，檐下挂满奉纳灯笼",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buden,_Yasaka-jinja,_Kyoto,_20240820_1707_5170.jpg",
+          "creator": "Jakub Hałun",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "date": "2024-08-20",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Buden%2C_Yasaka-jinja%2C_Kyoto%2C_20240820_1707_5170.jpg/1280px-Buden%2C_Yasaka-jinja%2C_Kyoto%2C_20240820_1707_5170.jpg"
+        }
+      ]
+    },
+    "gion-hanamikoji": {
+      "photos": [
+        {
+          "file": "media/photos/gion-hanamikoji-1.jpg",
+          "caption": "祇园花见小路两侧的町屋街景",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:150124_Gion_Kyoto_Japan01s3.jpg",
+          "creator": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+          "date": "2015-01-24",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/150124_Gion_Kyoto_Japan01s3.jpg/1280px-150124_Gion_Kyoto_Japan01s3.jpg"
+        },
+        {
+          "file": "media/photos/gion-hanamikoji-2.jpg",
+          "caption": "祇园巽桥一带的石板小巷",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gion.jpg",
+          "creator": "Andreas Tack",
+          "license": "Public domain (PD-self)",
+          "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+          "date": "2006-09-14",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gion.jpg/1280px-Gion.jpg"
+        }
+      ]
+    },
+    "arashiyama-bamboo": {
+      "photos": [
+        {
+          "file": "media/photos/arashiyama-bamboo-1.jpg",
+          "caption": "嵯峨野竹林小径，两侧为竹篱与高竹",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Japan_The_Bamboo_Forest_(13914447656).jpg",
+          "creator": "Yiannis Theologos Michellis",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "date": "2014-04-15",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Japan_The_Bamboo_Forest_%2813914447656%29.jpg/1280px-Japan_The_Bamboo_Forest_%2813914447656%29.jpg"
+        },
+        {
+          "file": "media/photos/arashiyama-bamboo-2.jpg",
+          "caption": "仰望岚山竹林的竹梢",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyoto_Arashiyama_Bamboo_forest_HDSR_S5_2024.jpg_02.jpg",
+          "creator": "Hyppolyte de Saint-Rambert",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "date": "2023-12-13",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kyoto_Arashiyama_Bamboo_forest_HDSR_S5_2024.jpg_02.jpg/1280px-Kyoto_Arashiyama_Bamboo_forest_HDSR_S5_2024.jpg_02.jpg"
+        }
+      ]
+    },
+    "tenryu-ji": {
+      "photos": [
+        {
+          "file": "media/photos/tenryu-ji-1.jpg",
+          "caption": "天龙寺曹源池庭园秋色，背景为岚山",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenryu-ji,_Sogenchi_Teien_(Garden)_-2_(November_2008)_-_panoramio.jpg",
+          "creator": "ttshr1970",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "date": "2008-11-20",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tenryu-ji%2C_Sogenchi_Teien_%28Garden%29_-2_%28November_2008%29_-_panoramio.jpg/1280px-Tenryu-ji%2C_Sogenchi_Teien_%28Garden%29_-2_%28November_2008%29_-_panoramio.jpg"
+        },
+        {
+          "file": "media/photos/tenryu-ji-2.jpg",
+          "caption": "天龙寺大方丈与曹源池",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tenryuji_Kyoto02s3s4500.jpg",
+          "creator": "663highland",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+          "date": "2010-11-06",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tenryuji_Kyoto02s3s4500.jpg/1280px-Tenryuji_Kyoto02s3s4500.jpg"
+        }
+      ]
+    },
+    "kinkaku-ji": {
+      "photos": [
+        {
+          "file": "media/photos/kinkaku-ji-1.jpg",
+          "caption": "隔镜湖池眺望金阁（舍利殿）",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kinkaku_in_Kyoto.jpg",
+          "creator": "Marco Almbauer",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "date": "2019-09",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kinkaku_in_Kyoto.jpg/1280px-Kinkaku_in_Kyoto.jpg"
+        },
+        {
+          "file": "media/photos/kinkaku-ji-2.jpg",
+          "caption": "松枝后的金阁上层与屋顶金凤凰",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rokuon-ji_(Kita-ku_Kyoto)_Kinkaku-ji_Golden_pavilion_trees_hdsr_S5_08.jpg",
+          "creator": "Hyppolyte de Saint-Rambert",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "date": "2023-12-27",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rokuon-ji_%28Kita-ku_Kyoto%29_Kinkaku-ji_Golden_pavilion_trees_hdsr_S5_08.jpg/1280px-Rokuon-ji_%28Kita-ku_Kyoto%29_Kinkaku-ji_Golden_pavilion_trees_hdsr_S5_08.jpg"
+        }
+      ]
+    },
+    "nishiki-market": {
+      "photos": [
+        {
+          "file": "media/photos/nishiki-market-1.jpg",
+          "caption": "锦市场拱廊商店街与彩色天棚",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nishiki_market_2024_Dec_31_various_12_07_11_255000.jpeg",
+          "creator": "Nesnad",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "date": "2024-12-31",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Nishiki_market_2024_Dec_31_various_12_07_11_255000.jpeg/1280px-Nishiki_market_2024_Dec_31_various_12_07_11_255000.jpeg"
+        },
+        {
+          "file": "media/photos/nishiki-market-2.jpg",
+          "caption": "锦市场内的京渍物（腌菜）店",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsukemono_shop_by_collinox_in_Nishiki_Ichiba,_Kyoto.jpg",
+          "creator": "collinox",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2009-04-19",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tsukemono_shop_by_collinox_in_Nishiki_Ichiba%2C_Kyoto.jpg/1280px-Tsukemono_shop_by_collinox_in_Nishiki_Ichiba%2C_Kyoto.jpg"
+        }
+      ]
+    },
+    "nijo-castle": {
+      "photos": [
+        {
+          "file": "media/photos/nijo-castle-1.jpg",
+          "caption": "二条城东南隅橹与护城河倒影",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nijo_Castle_171206_(24263278197).jpg",
+          "creator": "Gordon Cheung from Hong Kong",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2017-12-06",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nijo_Castle_171206_%2824263278197%29.jpg/1280px-Nijo_Castle_171206_%2824263278197%29.jpg"
+        },
+        {
+          "file": "media/photos/nijo-castle-2.jpg",
+          "caption": "二条城二之丸御殿前的唐门",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyoto,_castello_nijo,_porta_karamon,_01.jpg",
+          "creator": "Sailko",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "date": "2017-11-10",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kyoto%2C_castello_nijo%2C_porta_karamon%2C_01.jpg/1280px-Kyoto%2C_castello_nijo%2C_porta_karamon%2C_01.jpg"
+        }
+      ]
+    },
+    "philosophers-path": {
+      "photos": [
+        {
+          "file": "media/photos/philosophers-path-1.jpg",
+          "caption": "哲学之道：沿水渠延伸的步道与樱花树",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Philosophers_Walk_is_about_2km_long_and_runs_along_a_canal.jpg",
+          "creator": "shankar s.",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2019-04-17",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Philosophers_Walk_is_about_2km_long_and_runs_along_a_canal.jpg/1280px-The_Philosophers_Walk_is_about_2km_long_and_runs_along_a_canal.jpg"
+        },
+        {
+          "file": "media/photos/philosophers-path-2.jpg",
+          "caption": "初夏新绿中的哲学之道",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019-05-05_Philosopher%27s_Walk,_Kyoto.jpg",
+          "creator": "lasta29",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "date": "2019-05-05",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/2019-05-05_Philosopher%27s_Walk%2C_Kyoto.jpg/1280px-2019-05-05_Philosopher%27s_Walk%2C_Kyoto.jpg"
+        }
+      ]
+    },
+    "ginkaku-ji": {
+      "photos": [
+        {
+          "file": "media/photos/ginkaku-ji-1.jpg",
+          "caption": "银阁（观音殿）与秋季红叶",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ginkakuji_Fall1.jpg",
+          "creator": "Jmhullot",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "date": "2012-11-08",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ginkakuji_Fall1.jpg/1280px-Ginkakuji_Fall1.jpg"
+        },
+        {
+          "file": "media/photos/ginkaku-ji-2.jpg",
+          "caption": "银阁寺“银沙滩”枯山水",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ginshadan_Garden,_Ginkaku-ji_Temple,_Kyoto,_20240820_1042_4979.jpg",
+          "creator": "Jakub Hałun",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+          "date": "2024-08-20",
+          "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ginshadan_Garden%2C_Ginkaku-ji_Temple%2C_Kyoto%2C_20240820_1042_4979.jpg/1280px-Ginshadan_Garden%2C_Ginkaku-ji_Temple%2C_Kyoto%2C_20240820_1042_4979.jpg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "note": "京都 3 日示例的行前清单：按「什么时候做」分组；dueDate 为空表示随时可做。事实部分核对日期 2026-09-24，规则可能在 2027 年调整，出发前再看一次官方页面。不要写入任何证件号、订单号。",
+  "items": [
+    {
+      "id": "travel-advisory",
+      "group": "现在确认",
+      "title": "查看中国外交部对日本的出行提醒",
+      "summary": "订票前和出发前各看一次最新提醒，再决定是否按计划出行",
+      "body": [
+        "核对日期 2026-09-24：中国领事服务网「安全提醒」栏目列有 2026-03-26 发布的《提醒中国公民近期避免前往日本》，文中请已在日人员关注治安形势、加强防范，并列出紧急求助和领事保护电话。",
+        "同一网站的「日本」国家页，旅行风险等级显示福岛县为黄色（中风险），其他地区为蓝色（低风险）；外交部说明会动态调整风险评估并持续发布更新。",
+        "这类提醒会随时变化：订机票酒店前看一次，出发前 1 周再看一次，以当时的最新页面为准，再和同行人商量是否出行、是否购买可退改的产品。",
+        "完成标准：两人都读过最新的提醒原文，记下查看日期，并对是否按计划出行达成一致。"
+      ],
+      "links": [
+        {
+          "label": "中国领事服务网：提醒中国公民近期避免前往日本（2026-03-26）",
+          "url": "https://cs.mfa.gov.cn/aqtx/202607/t20260721_11988727.html"
+        },
+        {
+          "label": "中国领事服务网：日本（旅行风险等级和安全提醒）",
+          "url": "https://cs.mfa.gov.cn/ljmdd/yz_645708/rb_647322/"
+        }
+      ]
+    },
+    {
+      "id": "passport-validity",
+      "group": "现在确认",
+      "title": "护照有效期与空白页",
+      "summary": "确认两本护照有效、签证页够用，不够就先换发",
+      "body": [
+        "日本国驻上海总领事馆的签证页面把「持有有效的护照」列为发给签证的条件之一；核对到的日本官方页面没有写明固定的最短剩余有效期。",
+        "Visit Japan Web 在护照剩余有效期不足 6 个月时会显示警告；建议护照到期日晚于 2028-05-18（返程后 6 个月以上，编辑建议值），并留有空白签证页。",
+        "国家移民管理局服务指南：签证页即将用完、有效期不足 6 个月，或有材料证明有效期不符合前往国要求的，可申请换发；户籍地受理后 7 个工作日内签发，跨省异地申请为 20 日，每本 120 元。",
+        "签证和 Visit Japan Web 都应使用出行时所持的护照办理，需要换发的，在办签证之前换好（编辑建议）。",
+        "完成标准：两本护照的到期日和空白页都已核对，需要换发的已拿到新护照。"
+      ],
+      "links": [
+        {
+          "label": "国家移民管理局：普通护照签发服务指南",
+          "url": "https://s.nia.gov.cn/mps/bszy/gmcrg/slpthz/201903/t20190313_1011.html"
+        },
+        {
+          "label": "日本国驻上海总领事馆：有关签证申请的信息",
+          "url": "https://www.shanghai.cn.emb-japan.go.jp/itpr_zh/visa_c.html"
+        }
+      ]
+    },
+    {
+      "id": "japan-visa",
+      "group": "出发前 2 个月",
+      "dueDate": "2027-09-16",
+      "title": "办理日本旅游签证",
+      "summary": "中国大陆护照赴日旅游需要签证，个人旅游经指定旅行社递交",
+      "body": [
+        "日本国驻上海总领事馆页面写明：中国公民赴日（长期、短期或过境）都需要事先取得签证；该馆管辖上海、浙江、江苏、江西、安徽，其他地区的居住者向对应的使领馆咨询。",
+        "旅游签证原则上须通过使领馆指定的代办旅行社递交；个人旅游单次签证面向具备一定经济能力者及其家属（以及符合条件的在校生、毕业生），停留期为 15 天或 30 天，所需材料以代办旅行社的清单为准。",
+        "电子签证：外务省 JAPAN eVISA 页面（2026-05-15 版）写明，居住在中国的中国公民须经指定代办机构申请，发给停留期 15 天或 30 天的电子签证；抵达机场时须在联网状态下用手机出示「签证发行通知书」，PDF、截图和打印件都不被接受。",
+        "上海总领馆写明材料送达领馆后最快第 5 个工作日签发，代办机构收件、送还还要几个工作日；本清单从出发前 2 个月开始办理（编辑建议），给补材料留出余地。",
+        "签证政策可能在 2027 年调整：递交前再看一次管辖使领馆的页面；外国人赴日签证热线 400 032 7369（仅限中国国内来电，中文受理为日本时间周一至周五 9:30–18:15）。",
+        "完成标准：两人都拿到签证（纸质签证在护照内，或电子签证通知能在手机联网打开），并核对姓名、签证类别和停留期无误。"
+      ],
+      "links": [
+        {
+          "label": "日本国驻上海总领事馆：有关签证申请的信息",
+          "url": "https://www.shanghai.cn.emb-japan.go.jp/itpr_zh/visa_c.html"
+        },
+        {
+          "label": "日本外务省：Visa information for Chinese nationals",
+          "url": "https://www.mofa.go.jp/j_info/visit/visa/topics/china.html"
+        },
+        {
+          "label": "日本外务省：JAPAN eVISA system",
+          "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
+        },
+        {
+          "label": "日本国驻华大使馆：关于发行电子签证的相关通知",
+          "url": "https://www.cn.emb-japan.go.jp/itpr_zh/00_000485_00224.html"
+        }
+      ]
+    },
+    {
+      "id": "travel-insurance",
+      "group": "出发前 1 个月",
+      "dueDate": "2027-10-16",
+      "title": "旅行保险（建议项）",
+      "summary": "不是入境要求，但日本就医费用可能很高",
+      "body": [
+        "JNTO 页面写明旅行保险不是强制要求，但强烈建议所有赴日旅客购买；日本医疗水平高但费用可能昂贵。",
+        "JNTO 同页提醒：自 2021 年起，在日本有未付医疗费的外国人，可能被限制或拒绝入境。",
+        "按自己的需要比较保障范围：境外医疗、紧急救援与送返、行程延误或取消；确认理赔方式（能否在日本医院直接结算）和 24 小时求助电话。本清单不推荐具体产品。",
+        "完成标准：两人的保单都已生效覆盖 2027-11-15 至 2027-11-18，电子保单离线保存，并知道出险时先打哪个电话。"
+      ],
+      "links": [
+        {
+          "label": "JNTO：Travel Insurance in Japan",
+          "url": "https://www.japan.travel/en/plan/travel-insurance-in-japan/"
+        }
+      ]
+    },
+    {
+      "id": "accommodation-tax",
+      "group": "出发前 1 个月",
+      "dueDate": "2027-10-16",
+      "title": "核对酒店总价与京都住宿税",
+      "summary": "京都市按人按晚征收住宿税，2026-03-01 起部分档位上调",
+      "body": [
+        "京都市 2025-10-03 公布：自 2026-03-01 起，每人每晚的住宿税按房费（不含餐费和消费税的素泊价）分档：6,000 日元以下 200 日元；6,000–19,999 日元 400 日元；20,000–49,999 日元 1,000 日元；50,000–99,999 日元 4,000 日元；100,000 日元以上 10,000 日元。",
+        "计算方式：税额 = 人数 × 晚数 × 档位税额；例如房费每人每晚 1 万日元、住 2 晚，每人 800 日元。",
+        "看订单是否已含住宿税；不含的，按酒店的说明另付，预算里要单列。2027 年税额以届时京都市页面为准。",
+        "完成标准：确认订单是否含住宿税，并把应付金额写进预算。"
+      ],
+      "links": [
+        {
+          "label": "京都市：令和8年3月1日からの宿泊税の見直し",
+          "url": "https://www.city.kyoto.lg.jp/gyozai/page/0000345893.html"
+        },
+        {
+          "label": "京都市官方旅游指南：Currency Exchange & Taxes",
+          "url": "https://kyoto.travel/en/tax-rules/"
+        }
+      ]
+    },
+    {
+      "id": "cash-and-cards",
+      "group": "出发前 1 周",
+      "dueDate": "2027-11-09",
+      "title": "日元现金与银行卡",
+      "summary": "寺院门票和市营巴士常要现金；银行卡先确认境外可用",
+      "body": [
+        "京都市官方旅游指南提醒：很多消费和寺院参观费只能付现金，建议提前备好日元。京都市营巴士不收信用卡和借记卡；京都市营地铁也不能用信用卡感应支付。",
+        "Seven 银行 ATM（7-Eleven 店内等）受理银联、Visa、Mastercard 等境外卡取日元：境外卡每笔上限 10 万日元，手续费因卡组织而异，同一标识的卡也可能无法使用。出发前向发卡行确认已开通境外交易和境外取现，并了解手续费。",
+        "京都市营地铁 8 个站（含京都站、四条站、三条京阪站）设有外币兑换机，可把人民币纸币换成日元，只收纸币，每次最多折合 10 万日元（2026-09-08 公告）。",
+        "中国驻大阪总领馆提醒：切勿私下换汇，请通过银行等正规渠道兑换。携带现金等支付手段超过 100 万日元须向日本海关申报。",
+        "刷卡时如被问用人民币还是日元结算，选日元，避免商户端换汇（编辑建议，实际费用以发卡行为准）。",
+        "完成标准：每人备好一定日元现金（金额按行程自定），并至少有一张已确认可在境外刷卡和取现的银行卡。"
+      ],
+      "links": [
+        {
+          "label": "京都市官方旅游指南：Currency Exchange & Taxes",
+          "url": "https://kyoto.travel/en/tax-rules/"
+        },
+        {
+          "label": "Seven 银行：Overseas Cards Usable at ATMs",
+          "url": "https://www.sevenbank.co.jp/intlcard/card2.html"
+        },
+        {
+          "label": "京都市交通局：地下铁站外币兑换机",
+          "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000356988.html"
+        },
+        {
+          "label": "京都市交通局：地铁不能用信用卡支付",
+          "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000334479.html"
+        },
+        {
+          "label": "中国驻大阪总领馆：切勿私下换汇",
+          "url": "https://osaka.china-consulate.gov.cn/xwdt/202608/t20260813_12003295.htm"
+        },
+        {
+          "label": "日本海关：Procedures of Passenger Clearance",
+          "url": "https://www.customs.go.jp/english/summary/passenger.htm"
+        }
+      ]
+    },
+    {
+      "id": "ic-card",
+      "group": "出发前 1 周",
+      "dueDate": "2027-11-09",
+      "title": "交通 IC 卡（ICOCA 等）",
+      "summary": "市营巴士和地铁都能刷 ICOCA、Suica、PASMO 等 IC 卡",
+      "body": [
+        "京都市交通局列出市巴士、地铁可用的 IC 卡：ICOCA、Suica、PASMO、PiTaPa、Kitaca、manaca、TOICA、はやかけん、nimoca、SUGOCA。",
+        "实体 ICOCA 每张 2,000 日元（含 500 日元押金），可在 JR 西日本车站售票机或绿色窗口、京都市营地铁各站售票机购买，不能用信用卡买；JR 西日本另在关西机场站 JR 绿色窗口出售访日游客限定款（外国护照、以短期滞在入境、每人限一张）。",
+        "一次乘车只能用一张 ICOCA，不能两张合并付款，进站用哪张出站就用哪张；两人各备一张。",
+        "iPhone：Apple 支持页写明添加 Suica、PASMO、ICOCA 需 iPhone 8 及以上、开启双重认证的 Apple 账户，以及钱包中有符合条件的支付卡；JR 西日本页面另提示设备地区需设为「日本」。国内发行的银行卡能否在钱包中充值，以发卡行和 Apple 的规则为准。",
+        "手机里的 ICOCA 也能在部分车站售票机、便利店收银台或 Seven 银行 ATM 用现金充值；余额上限 2 万日元，每天 2:00–4:00 不能充值。",
+        "完成标准：两人各有一张能用的 IC 卡（实体卡或手机），并知道在哪里用现金充值。"
+      ],
+      "links": [
+        {
+          "label": "京都市交通局：市巴士·地铁可用的 IC 卡",
+          "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000214550.html"
+        },
+        {
+          "label": "JR 西日本：ICOCA 购买方法",
+          "url": "https://www.jr-odekake.net/icoca/purchase/icoca.html"
+        },
+        {
+          "label": "JR 西日本：ICOCA 指南（简体中文）",
+          "url": "https://www.westjr.co.jp/global/sc/howto/icoca/"
+        },
+        {
+          "label": "Apple 支持：在日本，在 Apple 钱包中添加交通卡",
+          "url": "https://support.apple.com/zh-cn/108772"
+        },
+        {
+          "label": "JR 西日本：Apple Pay 的 ICOCA 对应机型",
+          "url": "https://www.jr-odekake.net/icoca/applepay/start/models/"
+        },
+        {
+          "label": "JR 西日本：Apple Pay 的 ICOCA 充值",
+          "url": "https://www.jr-odekake.net/icoca/applepay/use/sf/"
+        }
+      ]
+    },
+    {
+      "id": "mobile-data",
+      "group": "出发前 1 周",
+      "dueDate": "2027-11-09",
+      "title": "流量：漫游、eSIM 或随身 Wi-Fi",
+      "summary": "落地就要用手机出示入境二维码，出发前把网络安排好",
+      "body": [
+        "Visit Japan Web 的入境二维码必须用手机或平板出示；持电子签证的旅客还要在机场联网出示签证发行通知，所以飞机落地前就要确定手机能上网。",
+        "JNTO 列出的方式有：在机场购买或租用 SIM、eSIM，提前在线预订，或租随身 Wi-Fi；也可以开通国内运营商的国际漫游。按两人的流量、是否要用国内号码收验证码来选，本清单不推荐具体产品。",
+        "eSIM 需要手机支持且未锁网：出发前装好，落地后再开数据漫游（编辑建议）。京都市营巴士·地铁导游指南还列出了免费的 KYOTO Wi-Fi。",
+        "完成标准：两部手机都确认落地后可以上网，并知道怎么切换数据线路。"
+      ],
+      "links": [
+        {
+          "label": "JNTO：FAQ（电压插座、上网、付款、小费）",
+          "url": "https://www.japan.travel/en/faq/"
+        },
+        {
+          "label": "日本数字厅：Visit Japan Web（简体中文说明）",
+          "url": "https://services.digital.go.jp/zh-cmn-hans/visit-japan-web/"
+        },
+        {
+          "label": "京都市营巴士·地铁导游指南（简体中文）",
+          "url": "https://www2.city.kyoto.lg.jp/kotsu/webguide/sc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "hands-free-luggage",
+      "group": "出发前 1 周",
+      "dueDate": "2027-11-09",
+      "title": "行李寄送与寄存（手ぶら観光）",
+      "summary": "京都市建议不要把大件行李带上市营巴士",
+      "body": [
+        "京都市官方的 HANDS FREE KYOTO 网站提醒：大件行李会让巴士、电车拥挤，请不要把大件行李带上市营巴士；可以用京都站与酒店之间的行李寄送、寄存柜台或投币寄存柜。",
+        "核对日期 2026-09-24，该网站京都站地图列出的寄送柜台包括 Crosta KYOTO（受理 8:00–20:00，寄送和寄存）、コトチカ市巴士·地铁问讯处（7:30–19:30，寄送）、Kyoto Tourist Information Center「京なび」（8:30–19:00，寄送）、JR 京都站八条口（10:00–18:00）、MK KYOTO TRAVEL CENTER（9:00–19:00）；时间和费用可能变化，以网站为准。",
+        "网站还列有从机场寄行李、出租车运送行李等服务入口；先问所住酒店是否提供寄送服务。",
+        "完成标准：决定抵达当天和返程当天行李怎么走（随身、寄送或寄存），需要预约的已预约。"
+      ],
+      "links": [
+        {
+          "label": "HANDS FREE KYOTO（京都市官方行李服务网站）",
+          "url": "https://hands-free.kyoto.travel/?lang=en"
+        },
+        {
+          "label": "京都市官方旅游指南：Luggage Services",
+          "url": "https://kyoto.travel/en/luggage-services/"
+        }
+      ]
+    },
+    {
+      "id": "visit-japan-web",
+      "group": "出发前 3 天",
+      "dueDate": "2027-11-13",
+      "title": "Visit Japan Web：入境审查与海关申报",
+      "summary": "提前登记，入境时出示二维码；官方不收任何费用",
+      "body": [
+        "Visit Japan Web 是日本数字厅的免费服务，可预先登记入境审查和海关申报信息，入境时出示二维码；数字厅提醒有网站以申请费、手续费名义收费，都不是官方，只用 vjw.digital.go.jp。",
+        "流程：用邮箱注册账号 → 登记本人（护照可拍照读取）→ 登记入境行程 → 填写「入境审查及海关申报」→ 入境时在手机上显示二维码，入境审查柜台和海关电子申报终端都用它。",
+        "官方页面没有规定必须提前几天登记；本清单放在出发前 3 天（编辑建议）。如果打算在日本免税购物，护照需要用拍照读取方式登记。",
+        "海关申报时如实回答携带物品：肉干、火腿、香肠、肉包等肉制品大多不能带入日本，违法携带可处 300 万日元以下罚金或 3 年以下拘禁刑（农林水产省动物检疫所）。",
+        "完成标准：两人的入境审查和海关申报都已填完，二维码能在各自手机上显示。"
+      ],
+      "links": [
+        {
+          "label": "日本数字厅：Visit Japan Web（简体中文说明）",
+          "url": "https://services.digital.go.jp/zh-cmn-hans/visit-japan-web/"
+        },
+        {
+          "label": "日本数字厅：Visit Japan Web 使用流程",
+          "url": "https://services.digital.go.jp/visit-japan-web/guide/"
+        },
+        {
+          "label": "Visit Japan Web（唯一官方入口）",
+          "url": "https://www.vjw.digital.go.jp/"
+        },
+        {
+          "label": "日本海关：Procedures of Passenger Clearance",
+          "url": "https://www.customs.go.jp/english/summary/passenger.htm"
+        },
+        {
+          "label": "农林水产省动物检疫所：肉制品等伴手礼的携带规定",
+          "url": "https://www.maff.go.jp/aqs/tetuzuki/product/aq2.html"
+        }
+      ]
+    },
+    {
+      "id": "emergency-contacts",
+      "group": "出发前 3 天",
+      "dueDate": "2027-11-13",
+      "title": "存好紧急联系电话",
+      "summary": "报警 110，急救/消防 119，中文热线和领事保护电话",
+      "body": [
+        "日本报警 110，急救和消防 119（JNTO、中国驻大阪总领馆页面）。",
+        "JNTO 访日外国人热线 050-3816-2787（海外拨打 +81-50-3816-2787），24 小时全年无休，可用中文，处理事故、急病、自然灾害等紧急情况和一般旅游咨询。",
+        "京都府属中国驻大阪总领事馆领区：领事保护与协助电话 +81-6-6445-9427；工作时间外可用「中国领事」App 免费拨打 12308，或拨外交部全球领事保护与服务应急热线 +86-10-12308、+86-10-65612308。",
+        "完成标准：两部手机都存好下方号码，并另写一份纸质备份放在钱包里。"
+      ],
+      "copy": "日本报警：110\n日本急救/消防：119\nJNTO 访日外国人热线（24 小时，中文可）：050-3816-2787\n中国驻大阪总领馆领事保护：+81-6-6445-9427\n外交部全球领事保护与服务应急热线：+86-10-12308 / +86-10-65612308",
+      "links": [
+        {
+          "label": "JNTO：Japan Visitor Hotline",
+          "url": "https://www.japan.travel/en/plan/hotline/"
+        },
+        {
+          "label": "中国驻大阪总领馆：领区概况与联系方式",
+          "url": "https://osaka.china-consulate.gov.cn/lqqk/lqgk/"
+        },
+        {
+          "label": "中国领事服务网：提醒中国公民近期避免前往日本（2026-03-26）",
+          "url": "https://cs.mfa.gov.cn/aqtx/202607/t20260721_11988727.html"
+        }
+      ]
+    },
+    {
+      "id": "power-plug",
+      "group": "出发前 3 天",
+      "dueDate": "2027-11-13",
+      "title": "转换插头与电压",
+      "summary": "日本 100V，插座为 A 型；看清充电器的电压范围",
+      "body": [
+        "JNTO 写明：日本标准电压 100V，频率按地区为 50Hz 或 60Hz（京都属 60Hz 的西日本），插座为 A 型。",
+        "看充电器和电器的铭牌：标有 100–240V 的一般可直接使用；只标 220V 的电器需要降压变压器（JNTO：部分电器需要降压变压器）。",
+        "国内常见的三脚插头插不进 A 型两孔插座，要带转换插头（编辑建议）；手机、相机、充电宝的充电器按人数准备。",
+        "完成标准：每人至少一个 A 型转换插头，吹风机等电器已确认电压范围。"
+      ],
+      "links": [
+        {
+          "label": "JNTO：FAQ（电压插座、上网、付款、小费）",
+          "url": "https://www.japan.travel/en/faq/"
+        },
+        {
+          "label": "JNTO：Japan Electrical Outlet",
+          "url": "https://www.japan.travel/en/plan/plug-and-electricity/"
+        }
+      ]
+    },
+    {
+      "id": "clothing-weather",
+      "group": "出发前 3 天",
+      "dueDate": "2027-11-13",
+      "title": "按 11 月中旬的京都备衣物",
+      "summary": "气候平年值：日最高约 17°C，日最低约 8°C",
+      "body": [
+        "日本气象厅京都站 1991–2020 年平年值：11 月平均气温 12.5°C，日最高 17.3°C，日最低 8.4°C，月降水量 73.9 mm。",
+        "气候平均值不能预测旅行当天的天气；出发前 3 天和前一晚再看天气预报，决定外套厚度和是否带伞。",
+        "寺院参观时，被要求就要脱鞋（京都市官方旅游指南）：穿容易穿脱的鞋，备干净袜子（编辑建议）。",
+        "完成标准：两人的外套、雨具和鞋按预报准备好。"
+      ],
+      "links": [
+        {
+          "label": "日本气象厅：京都 平年值（1991–2020）",
+          "url": "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=61&block_no=47759&year=&month=&day=&view="
+        },
+        {
+          "label": "京都市官方旅游指南：Responsible Travel（礼仪）",
+          "url": "https://kyoto.travel/en/responsible-travel"
+        }
+      ]
+    },
+    {
+      "id": "departure-day",
+      "group": "出发当天",
+      "dueDate": "2027-11-15",
+      "title": "出发当天：证件、网络、从关西机场到京都",
+      "summary": "护照随身，入境二维码和签证通知都能联网打开",
+      "body": [
+        "随身带护照（纸质签证在护照内）；持电子签证的，确认手机在机场能联网打开签证发行通知，截图和打印件不被接受。",
+        "起飞前再打开一次 Visit Japan Web，确认两人的二维码都能显示；保险单和酒店信息存一份离线版。",
+        "JR 西日本特急 HARUKA 停靠关西空港站和京都站（各班次停车站以 JR 西日本页面为准）；访日游客限定款 ICOCA 在关西机场站 JR 绿色窗口出售。",
+        "行李多的话，可在 HANDS FREE KYOTO 网站查从机场或京都站把行李寄到酒店的服务，不要把大件行李带上市营巴士。",
+        "完成标准：出门前护照、手机、充电器、转换插头、现金和银行卡逐项确认。"
+      ],
+      "links": [
+        {
+          "label": "日本外务省：JAPAN eVISA system",
+          "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
+        },
+        {
+          "label": "Visit Japan Web（唯一官方入口）",
+          "url": "https://www.vjw.digital.go.jp/"
+        },
+        {
+          "label": "JR 西日本：特急 HARUKA 停车站",
+          "url": "https://www.jr-odekake.net/railroad/train/haruka/"
+        },
+        {
+          "label": "JR 西日本：ICOCA 指南（简体中文）",
+          "url": "https://www.westjr.co.jp/global/sc/howto/icoca/"
+        },
+        {
+          "label": "HANDS FREE KYOTO（京都市官方行李服务网站）",
+          "url": "https://hands-free.kyoto.travel/?lang=en"
+        }
+      ]
+    },
+    {
+      "id": "kyoto-transit",
+      "group": "当地注意",
+      "title": "京都市营巴士与地铁怎么坐",
+      "summary": "普通路线后门上、前门下车付费；2027 年度票价可能调整",
+      "body": [
+        "核对日期 2026-09-24：市营巴士均一区间票价成人 230 日元；可付现金、IC 卡或一日券，不收信用卡和借记卡，也不能用 JAPAN RAIL PASS。普通路线后门上车、前门下车并在下车时付费。",
+        "观光特急巴士 EX100、EX101 前门上、后门下，上车付费，单程成人 500 日元；交通局页面写明它在周末和节假日运行，本行程 11/16–18 是周二至周四，出发前以官网时刻表为准。",
+        "「巴士一日券」已于 2023-09-30 停售、2024-03-31 停用；现行「地铁·巴士一日券」成人 1,100 日元，可乘市营地铁和市营巴士全线，以及部分京都巴士、京阪巴士、JR 巴士，也可乘观光特急巴士。",
+        "2027 年的变化：京都市交通局 2026-06-03 公布「市民优先价格」方案，计划在 2027 年度（2027 年 4 月至 2028 年 3 月）实施；均一区间非市民普通票价拟为 350–400 日元左右，一日券等票价仍在研究，且须经国家认可。出发前再核对实际票价。",
+        "京都市营地铁不能用信用卡感应支付；地铁和巴士之间换乘、去哪个站，可用交通局的多语言导游指南查询。",
+        "完成标准：出发前查过 2027 年的实际票价，并决定每天用 IC 卡还是一日券。"
+      ],
+      "links": [
+        {
+          "label": "京都市营巴士的乘坐方法（简体中文）",
+          "url": "https://www2.city.kyoto.lg.jp/kotsu/webguide/sc/bus/howtoride_bus.html"
+        },
+        {
+          "label": "京都市交通局：地下鉄・バス1日券",
+          "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html"
+        },
+        {
+          "label": "京都市交通局：お得な乗車券（含巴士一日券停售说明）",
+          "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000019521.html"
+        },
+        {
+          "label": "京都市交通局：市巴士「市民优先价格」制度概要",
+          "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000351261.html"
+        },
+        {
+          "label": "京都市交通局：地铁不能用信用卡支付",
+          "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000334479.html"
+        }
+      ]
+    },
+    {
+      "id": "tax-free-shopping",
+      "group": "当地注意",
+      "title": "免税购物：2026-11-01 起改为退款方式",
+      "summary": "先付含税价，出境时机场海关确认带出后再退还消费税",
+      "body": [
+        "观光厅和国税厅：根据令和 7 年度税制改正，2026-11-01 起的购买改为「退款方式」。在免税店按含税价付款，出境时在机场（海关）确认商品被带出国后，再退还消费税相当额；本次旅行适用这一新制度。",
+        "对象：同一店铺一天内的购买额（不含税）5,000 日元以上；购买数量限于出境时本人能全部随身带出的量；金条、铂金地金和非课税商品不在对象内。",
+        "消耗品不再做特殊包装，但食品、化妆品等消耗品在日本境内吃掉、用掉的，不能获得退款；海关按每次购买（每张收据）确认，同一收据里有一件不在身边，整张收据都不退。",
+        "退款由免税店或其委托的退款事业者支付，方式因店而异（例如银行转账、信用卡、App 汇款或机场内现金）；购买时问清退款方式并按店里的指引登记。",
+        "完成标准：每次免税购买都保存好收据，知道这家店的退款方式，商品不拆开使用。"
+      ],
+      "links": [
+        {
+          "label": "观光厅：旅行者向 新制度（退款方式）特设页",
+          "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html"
+        },
+        {
+          "label": "观光厅：旅行者向 常见问题（退款方式）",
+          "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html"
+        },
+        {
+          "label": "国税厅：輸出物品販売場制度のリファンド方式への見直し",
+          "url": "https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/format/002.htm"
+        }
+      ]
+    },
+    {
+      "id": "kyoto-manners",
+      "group": "当地注意",
+      "title": "京都礼仪与祇园规定",
+      "summary": "不拦拍艺伎舞伎，看清禁拍标示，不进私有道路",
+      "body": [
+        "京都市官方旅游指南：不要拦住、触碰、跟随或未经同意拍摄艺伎、舞伎；祇园许多区域、寺社的部分区域和一些餐厅禁止拍照，看到标示就照做。",
+        "祇园町南侧地区协议会等的告示：店铺和道路以外的私有区域未经允许不要进入；不要在人行道上聚集或停下拍照堵路；不要乱扔垃圾、大声喧哗；居民报告可能会叫警察到场。告示列出的罚则包括妨碍通行最高 5 万日元罚金、乱扔垃圾最高 3 万日元罚款。",
+        "京都市条例禁止在街道上吸烟（指定吸烟处除外），在禁烟地区吸烟罚款 1,000 日元；在岚山、伏见稻荷的竹子上刻字属于损坏财物，最高可罚 30 万日元。",
+        "打车只坐绿色车牌的正规出租车或正规网约车软件；白牌车无许可载客是违法的，出事可能没有保险。",
+        "完成标准：两人都读过一遍，在现场看到「撮影禁止」「私道」等标示时照做。"
+      ],
+      "links": [
+        {
+          "label": "京都市官方旅游指南：Responsible Travel（礼仪）",
+          "url": "https://kyoto.travel/en/responsible-travel"
+        },
+        {
+          "label": "京都市官方旅游指南：Gion manner（祇园町南侧的告示）",
+          "url": "https://kyoto.travel/en/responsible-travel/gion-manner-message-from-southern-gionmachi/"
+        },
+        {
+          "label": "京都市官方旅游指南：Smoking on the Street",
+          "url": "https://kyoto.travel/en/responsible-travel/smoking-on-the-street/"
+        }
+      ]
+    },
+    {
+      "id": "tax-free-departure",
+      "group": "返程前",
+      "dueDate": "2027-11-17",
+      "title": "免税商品：先在机场确认，再托运行李",
+      "summary": "托运之前到免税手续终端出示护照，红色判定要接受检查",
+      "body": [
+        "必须在购买日起 90 天内出境时接受海关确认，并且在托运行李之前完成：托运后不能再为免税手续取回行李，漏办就拿不到退款。",
+        "在国际线出发大厅的免税手续终端出示护照：绿色判定即完成；红色判定要到海关检查处出示商品。关西机场还可以用 Visit Japan Web，在保安检查前的专用 Wi-Fi 区域在线办理。",
+        "手续须在办理登机之前完成，检查中途放弃视为未确认；因办理免税误机，航空公司和海关都不赔偿，所以要早点到机场。",
+        "前一晚把免税商品和收据按收据分好，放进随身或尚未托运的行李里，吃用掉的消耗品要主动向海关窗口说明。",
+        "完成标准：返程前一晚免税商品和收据已整理好，并算好比平时更早的出发时间。"
+      ],
+      "links": [
+        {
+          "label": "观光厅：旅行者向 新制度（退款方式）特设页",
+          "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html"
+        },
+        {
+          "label": "观光厅：旅行者向 常见问题（退款方式）",
+          "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html"
+        },
+        {
+          "label": "日本数字厅：Visit Japan Web 使用流程",
+          "url": "https://services.digital.go.jp/visit-japan-web/guide/"
+        }
+      ]
+    },
+    {
+      "id": "return-check",
+      "group": "返程前",
+      "dueDate": "2027-11-17",
+      "title": "返程前一晚复查",
+      "summary": "航班、退房时间、去关西机场的交通和行李",
+      "body": [
+        "查航班状态和航站楼，核对酒店退房时间；决定行李随身、寄存还是寄送（HANDS FREE KYOTO 列有京都站柜台和受理时间）。",
+        "查好从京都去关西机场的交通和所需时间；如要办免税确认，在平时的基础上再留出时间。",
+        "IC 卡余额够用即可，剩余日元现金留作路上零用；有寄存在车站的行李，确认取件时间。",
+        "完成标准：两人确认退房时间、出发时间和交通方式，护照放在随身包里。"
+      ],
+      "links": [
+        {
+          "label": "HANDS FREE KYOTO（京都市官方行李服务网站）",
+          "url": "https://hands-free.kyoto.travel/?lang=en"
+        },
+        {
+          "label": "JR 西日本：特急 HARUKA 停车站",
+          "url": "https://www.jr-odekake.net/railroad/train/haruka/"
+        }
+      ]
+    }
+  ]
+}

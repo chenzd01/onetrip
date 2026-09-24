@@ -1,0 +1,33 @@
+name: 分享你的目的地 / Show your trip
+description: 用 OneTrip 做了自己的旅行 App？来 Showcase 露个脸 / Made an app for your trip? Get listed in the Showcase
+labels: [showcase]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        只分享你愿意公开的内容：截图请先打码同行人、住处、订单和日期。Share only what you are happy to make public; blur companions, stays, bookings and dates.
+        `make screenshots` 会在 docs/assets/ 生成可以直接分享的图片。`make screenshots` creates shareable images in docs/assets/.
+  - type: input
+    id: destination
+    attributes:
+      label: 目的地与天数 / Destination and length
+      placeholder: 里斯本 5 天 / Lisbon, 5 days
+    validations:
+      required: true
+  - type: textarea
+    id: images
+    attributes:
+      label: 截图 / Screenshots
+      description: 拖入 1–4 张图片 / Drop 1–4 images
+    validations:
+      required: true
+  - type: textarea
+    id: story
+    attributes:
+      label: 一两句感受 / A line or two
+      description: 用了哪个 Agent、花了多久、最有用的功能… / Which agent, how long it took, what helped most…
+  - type: input
+    id: link
+    attributes:
+      label: 公开链接（可选）/ Public link (optional)
+      description: 公开的内容包仓库或文章。你的旅行仓库本身建议保持私有。/ A public content pack or write-up; keep your trip repo itself private.

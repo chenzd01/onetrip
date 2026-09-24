@@ -1,0 +1,17 @@
+The text and data of the Kyoto example in this directory (all JSON files and this folder's
+README) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+Facts in them come from the official sources cited next to each entry; check those sources
+before relying on any fact.
+
+The photos under media/ are NOT covered by CC0. They come from Wikimedia Commons and keep
+their own licenses (CC0, public domain or CC BY 2.0/2.5/3.0/4.0). The creator, license and
+source page of every photo are listed in photo-sources.json (place photos) and in the body of
+each post in posts.json (post photos). Keep that attribution when you reuse them.
+
+When you replace this example with your own content, that content keeps its own licenses.
+
+本目录中京都示例的文字与数据（全部 JSON 与本目录的 README）以 CC0 1.0 放弃版权；其中的事实来自各条目旁
+引用的官方来源，使用前请以来源为准。media/ 下的照片不适用 CC0：它们来自 Wikimedia Commons，各自保留原
+许可证（CC0、公有领域或 CC BY 2.0/2.5/3.0/4.0），作者、许可与来源见 photo-sources.json（地点照片）和
+posts.json 各篇正文末尾（攻略配图）。转用时请保留署名。

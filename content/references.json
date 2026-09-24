@@ -1,0 +1,69 @@
+{
+  "references": [
+    {
+      "id": "icoca-transit",
+      "title": "ICOCA 与京都市内交通",
+      "body": "官方页面核对日期 2026-09-24。京都市营巴士和地铁可刷 ICOCA、Suica、PASMO、PiTaPa 等 10 种交通 IC 卡。实体 ICOCA 每张 2,000 日元（含 500 日元押金），可在 JR 西日本车站和京都市营地铁各站售票机购买，不能用信用卡买；关西机场站 JR 绿色窗口另售访日游客限定款（外国护照、短期滞在入境、每人限一张）。iPhone 可在 Apple 钱包添加 Suica、PASMO、ICOCA，需 iPhone 8 及以上、开启双重认证的 Apple 账户和钱包中符合条件的支付卡；余额上限 2 万日元。现金可在车站售票机、便利店和 Seven 银行 ATM 充值。市营巴士不收信用卡和借记卡，也不能用 JAPAN RAIL PASS；普通路线后门上车、前门下车付费，均一区间成人 230 日元。京都市营地铁不能用信用卡感应支付。",
+      "links": [
+        { "label": "京都市交通局：市巴士·地铁可用的 IC 卡", "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000214550.html" },
+        { "label": "京都市营巴士的乘坐方法（简体中文）", "url": "https://www2.city.kyoto.lg.jp/kotsu/webguide/sc/bus/howtoride_bus.html" },
+        { "label": "JR 西日本：ICOCA 购买方法", "url": "https://www.jr-odekake.net/icoca/purchase/icoca.html" },
+        { "label": "JR 西日本：ICOCA 指南（简体中文）", "url": "https://www.westjr.co.jp/global/sc/howto/icoca/" },
+        { "label": "Apple 支持：在日本，在 Apple 钱包中添加交通卡", "url": "https://support.apple.com/zh-cn/108772" },
+        { "label": "京都市交通局：地铁不能用信用卡支付", "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000334479.html" }
+      ]
+    },
+    {
+      "id": "kyoto-day-pass",
+      "title": "地铁·巴士一日券与 2027 年票价变化",
+      "body": "官方页面核对日期 2026-09-24。「巴士一日券」已于 2023-09-30 停售、2024-03-31 停用，现在没有只坐巴士的一日券。现行「地铁·巴士一日券」成人 1,100 日元、儿童 550 日元，当天可不限次乘坐京都市营地铁和市营巴士全线，以及部分京都巴士、京阪巴士、西日本 JR 巴士，也可乘观光特急巴士 EX100、EX101（单程成人 500 日元，前门上车付费）；交通局页面写明观光特急巴士在周末和节假日运行。京都市交通局 2026-06-03 公布市巴士「市民优先价格」方案：计划在 2027 年度内实施，均一区间非市民普通票价拟为 350–400 日元左右（现行 230 日元），一日券和回数券的价格仍在研究，并须经国家认可。2027 年 11 月出行前，请再到交通局网站核对实际票价和一日券是否变化。",
+      "links": [
+        { "label": "京都市交通局：地下鉄・バス1日券", "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html" },
+        { "label": "京都市交通局：お得な乗車券（含巴士一日券停售说明）", "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000019521.html" },
+        { "label": "京都市交通局：市巴士「市民优先价格」制度概要", "url": "https://www.city.kyoto.lg.jp/kotsu/page/0000351261.html" },
+        { "label": "京都市交通局：观光特急巴士 EX100/EX101（英文）", "url": "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/bus/limited_express.html" }
+      ]
+    },
+    {
+      "id": "emergency",
+      "title": "紧急电话与求助",
+      "body": "日本报警 110，急救和消防 119（海上事故 118）。JNTO 访日外国人热线 050-3816-2787（海外拨打 +81-50-3816-2787），24 小时全年无休，可用中文，协助事故、急病、自然灾害等紧急情况和一般旅游咨询。京都府属中国驻大阪总领事馆领区：领事保护与协助 +81-6-6445-9427；工作时间外可用「中国领事」App 免费拨打 12308，或拨外交部全球领事保护与服务应急热线 +86-10-12308、+86-10-65612308。核对日期 2026-09-24：中国领事服务网列有 2026-03-26 发布的《提醒中国公民近期避免前往日本》，出行前请查看最新提醒。",
+      "links": [
+        { "label": "JNTO：Japan Visitor Hotline", "url": "https://www.japan.travel/en/plan/hotline/" },
+        { "label": "中国驻大阪总领馆：领区概况与联系方式", "url": "https://osaka.china-consulate.gov.cn/lqqk/lqgk/" },
+        { "label": "中国领事服务网：提醒中国公民近期避免前往日本（2026-03-26）", "url": "https://cs.mfa.gov.cn/aqtx/202607/t20260721_11988727.html" },
+        { "label": "京都市官方旅游指南：Safety Information", "url": "https://kyoto.travel/en/safety-info/" }
+      ]
+    },
+    {
+      "id": "tax-free-refund",
+      "title": "免税购物：退款方式（2026-11-01 起）",
+      "body": "观光厅、国税厅页面（核对日期 2026-09-24）：2026-11-01 起的购买改为「退款方式」。在免税店按含税价付款；出境时（购买日起 90 天内）在机场托运行李之前，到国际出发大厅的免税手续终端出示护照接受海关确认，绿色判定即完成，红色判定要到检查处出示商品；关西机场等 7 个机场还可用 Visit Japan Web 在保安检查前的专用 Wi-Fi 区域在线办理。确认之后由免税店或其委托的退款事业者退还消费税相当额，方式因店而异。对象为同一店铺一天内购买额（不含税）5,000 日元以上、能由本人全部随身带出的商品；消耗品在日本境内吃掉用掉的不退；海关按每张收据确认，缺一件整张收据不退；托运后不能再取回行李办理；因办理免税误机，航空公司和海关都不赔偿。",
+      "links": [
+        { "label": "观光厅：旅行者向 新制度（退款方式）特设页", "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00021.html" },
+        { "label": "观光厅：旅行者向 常见问题（退款方式）", "url": "https://www.mlit.go.jp/kankocho/tax-free/page01_000001_00023.html" },
+        { "label": "国税厅：輸出物品販売場制度のリファンド方式への見直し", "url": "https://www.nta.go.jp/publication/pamph/shohi/menzei/201805/format/002.htm" }
+      ]
+    },
+    {
+      "id": "hands-free-luggage",
+      "title": "行李寄送与寄存（HANDS FREE KYOTO）",
+      "body": "京都市官方的 HANDS FREE KYOTO 网站提醒：大件行李会让车内拥挤，请不要把大件行李带上市营巴士。京都站有行李寄送（京都站与酒店之间、酒店与酒店之间）和寄存柜台；按规定时间办理的，可以当天送达取件。核对日期 2026-09-24，网站地图列出的京都站柜台包括 Crosta KYOTO（8:00–20:00，寄送和寄存）、コトチカ市巴士·地铁问讯处（7:30–19:30，寄送）、Kyoto Tourist Information Center「京なび」（8:30–19:00，寄送）、JR 京都站八条口（10:00–18:00）、MK KYOTO TRAVEL CENTER（9:00–19:00）；网站还列有从机场寄送、出租车运送行李等入口。时间和费用可能变化，以网站和各柜台为准；也可以先问酒店是否提供寄送。",
+      "links": [
+        { "label": "HANDS FREE KYOTO（京都市官方行李服务网站）", "url": "https://hands-free.kyoto.travel/?lang=en" },
+        { "label": "京都市官方旅游指南：Luggage Services", "url": "https://kyoto.travel/en/luggage-services/" }
+      ]
+    },
+    {
+      "id": "kyoto-manners",
+      "title": "京都礼仪与当地规定",
+      "body": "京都市官方旅游指南（核对日期 2026-09-24）：不要拦住、触碰、跟随或未经同意拍摄艺伎、舞伎；祇园许多区域、寺社部分区域和一些餐厅禁止拍照。祇园町南侧地区协议会等的告示：店铺和道路以外的私有区域未经允许不要进入，不要在人行道上聚集或停下拍照堵路，不要乱扔垃圾、大声喧哗；居民报告可能会叫警察到场，告示列出的罚则包括妨碍通行最高 5 万日元罚金、乱扔垃圾最高 3 万日元罚款。京都市条例禁止在街道上吸烟（指定吸烟处除外），在禁烟地区吸烟罚款 1,000 日元。在岚山、伏见稻荷的竹子上刻字属于损坏财物，最高可罚 30 万日元。被要求时要脱鞋，不要随意触碰文化遗产。只坐绿色车牌的正规出租车或正规网约车软件。住宿按人按晚另有京都市住宿税（2026-03-01 起按房费分为 200 至 10,000 日元五档）。",
+      "links": [
+        { "label": "京都市官方旅游指南：Responsible Travel（礼仪）", "url": "https://kyoto.travel/en/responsible-travel" },
+        { "label": "京都市官方旅游指南：Gion manner（祇园町南侧的告示）", "url": "https://kyoto.travel/en/responsible-travel/gion-manner-message-from-southern-gionmachi/" },
+        { "label": "京都市官方旅游指南：Smoking on the Street", "url": "https://kyoto.travel/en/responsible-travel/smoking-on-the-street/" },
+        { "label": "京都市：令和8年3月1日からの宿泊税の見直し", "url": "https://www.city.kyoto.lg.jp/gyozai/page/0000345893.html" }
+      ]
+    }
+  ]
+}

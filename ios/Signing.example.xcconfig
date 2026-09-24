@@ -1,0 +1,6 @@
+// Copy to Signing.xcconfig (git-ignored).
+// Simulator builds work with an empty team. Device builds and TestFlight need a paid team.
+DEVELOPMENT_TEAM =
+// Reverse-DNS prefix you own. The widget uses $(APP_BUNDLE_ID).widgets and the
+// App Group is group.$(APP_BUNDLE_ID); register both in the Apple Developer portal.
+APP_BUNDLE_ID = com.example.tripjournal

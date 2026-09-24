@@ -1,0 +1,6 @@
+// Optional. Copy to SharedAccess.xcconfig (git-ignored) only if you run the backend in server/.
+// Without it the app is fully offline: no shared sync, day routes or couple touch.
+// "//" starts a comment in xcconfig files, so write the URL with $() between the slashes.
+TRIP_SERVER_URL = https:/$()/trip.example.com/onetrip/<random-path>/
+// 32–256 random characters; the server stores only its SHA-256 (TRIP_NATIVE_KEY_SHA256).
+TRIP_SHARED_ACCESS_KEY =

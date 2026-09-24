@@ -1,0 +1,22 @@
+name: 功能建议 / Feature request
+description: 让 App 或模板更好用 / Make the app or template better
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 想解决的问题 / The problem
+      description: 在旅途中或准备时遇到了什么 / What got in the way while planning or travelling?
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 设想 / Proposed idea
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: 适用范围 / Scope
+      options:
+        - label: 与目的地无关，适用于任何旅行 / Works for any destination (not tied to one city)
+          required: true

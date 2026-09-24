@@ -1,0 +1,559 @@
+{
+  "note": "京都三日游地点目录（2027-11-16 至 11-18，两位成人）。开放时间与票价为 2026-09-24 查询各官网时的公布值；2027 年安排尚未公布，出发前需再次核对。停留时长、步行时间和建议时段为规划估计。字段说明见 docs/zh/content-schema.md。",
+  "places": [
+    {
+      "id": "fushimi-inari",
+      "name": "伏见稻荷大社",
+      "en": "Fushimi Inari Taisha",
+      "zone": "伏见",
+      "kind": "神社",
+      "hours": 2.5,
+      "budget": 0,
+      "desc": "全国稻荷神社的总本宫，本殿后方稻荷山参道上排满朱红鸟居（千本鸟居），是京都最有代表性的风景之一；适合愿意走山路、想拍鸟居隧道的旅客。",
+      "tip": "想拍人少的千本鸟居，建议 8:00 前到本殿（规划建议，不保证人少）。体力一般可只走到奥社奉拝所（おもかる石）或熊鹰社・新池后原路返回；绕稻荷山一周的「お山めぐり」约 4 km、约 2 小时，穿防滑好走的鞋。11 月日落早，官网未写明山道夜间照明情况，建议天黑前下山。伏见稻荷一带属京都市「美化推进区域」，乱丢垃圾最高可罚 3 万日元。路线细节见下方深度攻略。",
+      "travel": "JR 奈良线「稲荷」站出站即到（官网：距京都站 2 站、约 5 分钟）；京阪本线「伏見稲荷」站往东步行约 5 分钟（官网口径）。京都市官方指南建议从京都站坐 JR 奈良线（约 9 分钟），尽量避开市巴士南 5 路（时间可能延误 24 分钟以上）。步行时间为规划估计。",
+      "rain": "雨天山道石阶湿滑，缩短为本殿＋千本鸟居＋奥社奉拝所往返（规划建议）；大雨时改为京都站周边室内活动，晴后再补山上环线。",
+      "food": "JR 稲荷站与京阪伏見稲荷站之间的门前町有纪念品店和京都风味小餐馆（京都市官方指南描述）；具体店铺与营业时间本次未逐一核实。",
+      "link": "https://inari.jp/",
+      "opening": "京都市官方「京都観光Navi」（2026-09-24 查询）写明：境内「閉門なし」（昼夜均可参拜），授与所 8:00–18:00，祈祷受理 8:30–16:30，全年无休；神社官网未单列参拜时间。官网 11 月祭礼页的主要祭典为 11/1、11/8（火焚祭）、11/23，11/16–18 无大型祭典；官网境内图标注熊鹰社火焚祭为 11 月 17 日（年度例行日期）。2027 年安排未公布，出发前再核对。",
+      "price": "官方：参拜免费（京都観光Navi 标注「無料」）；规划预算 0 日元／人（护身符、御朱印另计）。",
+      "bestTime": "7:00–9:00｜境内无闭门时间，清晨出发可在上午走完山上环线，再接后续行程（规划判断）",
+      "guides": [
+        {
+          "id": "fushimi-inari-mountain",
+          "title": "稻荷山怎么走：路线、时间与避开人潮",
+          "summary": "按体力选择折返点，清晨出发、天黑前下山；路线名称以伏见稻荷大社官网境内图为准，时长为京都市官方口径加规划估计。",
+          "updatedAt": "2026-09-24",
+          "sections": [
+            {
+              "title": "路线全貌",
+              "paragraphs": [
+                "官网境内图的主要节点依次为：楼门、本殿 → 千本鸟居 → 奥社奉拝所（「奥之院」，右后方有可许愿后试举的「おもかる石」）→ 熊鹰社（新池）→ 山上神迹。稻荷山海拔 233 m，由山麓起依次为三ノ峰、間ノ峰、二ノ峰、一ノ峰（最高点，上社神迹），另有御劔社、御膳谷奉拝所等神迹。",
+                "京都市官方「京都観光Navi」写明：绕山一周（お山めぐり）约 4 km、约 2 小时；含山上环线的参观时间约 120 分钟。官网说明参道上约有 1 万座奉纳鸟居。"
+              ]
+            },
+            {
+              "title": "按体力选折返点",
+              "paragraphs": [
+                "A 轻松版：本殿 → 千本鸟居 → 奥社奉拝所后原路返回，约 40–60 分钟（规划估计）。适合只想拍鸟居隧道、后面还有满满行程的一天。",
+                "B 中等版：继续上到熊鹰社・新池一带再折返，约 1–1.5 小时（规划估计）。石阶逐渐变多，人流明显减少。",
+                "C 完整版：走完山上环线（三ノ峰至一ノ峰一带）再下山，约 2–2.5 小时（京都市官方约 2 小时，另加拍照休息的规划余量）。全程多为石阶，带水、穿防滑鞋。"
+              ]
+            },
+            {
+              "title": "时间安排与避开人潮",
+              "paragraphs": [
+                "京都観光Navi 写明境内「閉門なし」，授与所 8:00–18:00、祈祷受理 8:30–16:30。想拍人少的鸟居，建议 7:00–8:00 到本殿开始上山（规划判断，不保证人少）；出发前可在京都市官方「观光快适度」页面看伏见稻荷的时段拥挤预测。",
+                "京都市官方指南形容傍晚上山别有神秘气氛，但 11 月日落早，官网未写明山道夜间照明情况，建议完整版在 15:00 前开始、天黑前回到山下（规划判断）。",
+                "11 月 16–18 日官网祭礼页没有大型祭典；官网境内图标注熊鹰社火焚祭为每年 11 月 17 日，届时熊鹰社一带可能有祭事，2027 年安排出发前再核对。"
+              ]
+            },
+            {
+              "title": "交通与礼仪",
+              "paragraphs": [
+                "官网：JR 奈良线「稲荷」站出站即到（京都站 2 站、约 5 分钟），京阪「伏見稲荷」站往东步行约 5 分钟；神社停车场仅供参拜者且周边拥挤，官网建议乘公共交通。京都市官方指南建议避开市巴士南 5 路。",
+                "京都市把伏见稻荷列为「美化推进区域」，乱丢垃圾最高可罚 3 万日元；参道是信仰场所，拍照时不要长时间占住鸟居通道。"
+              ]
+            }
+          ],
+          "links": [
+            {
+              "label": "伏见稻荷大社官网：境内图",
+              "url": "https://inari.jp/trip/map01/"
+            },
+            {
+              "label": "京都観光Navi：伏见稻荷大社",
+              "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=448"
+            },
+            {
+              "label": "伏见稻荷大社官网：交通（英文）",
+              "url": "https://inari.jp/en/access/"
+            },
+            {
+              "label": "Kyoto Travel：前往伏见稻荷的交通建议",
+              "url": "https://kyoto.travel/en/info/transportation/fushimi_inari.html"
+            },
+            {
+              "label": "Kyoto Travel：京都观光礼仪（美化推进区域罚则）",
+              "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "label": "伏见稻荷大社官网：交通（英文）",
+          "url": "https://inari.jp/en/access/"
+        },
+        {
+          "label": "京都観光Navi：伏见稻荷大社（营业时间、お山めぐり）",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=448"
+        },
+        {
+          "label": "伏见稻荷大社官网：境内图",
+          "url": "https://inari.jp/trip/map01/"
+        },
+        {
+          "label": "伏见稻荷大社官网：11 月祭礼",
+          "url": "https://inari.jp/rite/?month=11%E6%9C%88"
+        },
+        {
+          "label": "Kyoto Travel：前往伏见稻荷的交通建议",
+          "url": "https://kyoto.travel/en/info/transportation/fushimi_inari.html"
+        },
+        {
+          "label": "Kyoto Travel：京都观光礼仪",
+          "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "kiyomizu-dera",
+      "name": "清水寺",
+      "en": "Kiyomizu-dera",
+      "zone": "东山",
+      "kind": "寺院",
+      "hours": 1.5,
+      "budget": 500,
+      "desc": "以悬空木造「清水舞台」闻名的世界遗产古寺；官网介绍寺内约有 1,000 株秋季变色的树木，是京都红叶季的经典一站。",
+      "tip": "6:00 开门，趁早（8:00 前）上舞台拍红叶和京都市景，京都市官方指南也建议在人少的时段前往。官网提醒：部分地图 App 会导航到无法进寺的路线，进寺只有「清水坂→仁王门」和「茶碗坂→防灾道路」两条路。寺内禁止用三脚架、单脚架和无人机拍摄，禁止婚纱、cosplay 和模特拍摄。寺内无停车场。",
+      "travel": "京都站乘市巴士 206 或 100 路至「五条坂」下车，步行约 10 分钟（官网）；京阪「清水五条」站步行约 25 分钟（官网）；也可坐地铁东西线到「東山」站，经ねねの道・二年坂・三年坂步行约 35 分钟（京都市官方指南）。时间为规划估计，红叶季巴士容易拥堵。",
+      "rain": "本堂与舞台可撑伞参观，雨天坂道石板湿滑、注意防滑；雨大时缩短户外步行，参拜后直接转往祇园一带（规划建议）。",
+      "food": "清水坂与二年坂・三年坂沿路多纪念品店和餐饮店（京都市官方指南描述）；具体店铺营业时间本次未逐一核实。",
+      "link": "https://www.kiyomizudera.or.jp/",
+      "opening": "官网「2026年の拝観時間」（2026-09-24 查询）：9/1–11/20 为 6:00–18:00；11/21–11/30 为秋季夜间特别拜观，开门时间延长至 21:30（21:00 停止受理，无需预约）；12 月 6:00–18:00。官网注明夜间特别拜观的日期每年变动。2027 年日期未公布；若沿用 2026 年的安排，11/16–18 不在夜间拜观期内，出发前再核对。",
+      "price": "官方价：大人 500 日元、中小学生 200 日元——清水寺官网本次未查到票价文字，此价格来自京都市官方「京都観光Navi」2026 年秋季夜间拜观页与西国三十三所札所会页面；规划预算按 500 日元／人。",
+      "bestTime": "6:00–8:00｜开门即入，舞台与红叶人少、晨光柔和（规划判断，不保证人少）",
+      "sources": [
+        {
+          "label": "清水寺官网：2026 年拜观时间与交通",
+          "url": "https://www.kiyomizudera.or.jp/access.php"
+        },
+        {
+          "label": "清水寺官网：夜间特别拜观（2026）",
+          "url": "https://www.kiyomizudera.or.jp/event/yakan.php"
+        },
+        {
+          "label": "清水寺官网：FAQ（英文，拍摄规定）",
+          "url": "https://www.kiyomizudera.or.jp/en/faq/"
+        },
+        {
+          "label": "京都観光Navi：清水寺夜间特别拜观（票价）",
+          "url": "https://ja.kyoto.travel/event/single.php?event_id=3730"
+        },
+        {
+          "label": "西国三十三所札所会：清水寺（票价）",
+          "url": "https://saikoku33.gr.jp/place/16"
+        },
+        {
+          "label": "Kyoto Travel：前往东山・清水寺的交通建议",
+          "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-higashiyama-kiyomizu-dera-temple/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "sannenzaka",
+      "name": "二年坂·三年坂（产宁坂）",
+      "en": "Ninenzaka & Sannenzaka",
+      "zone": "东山",
+      "kind": "街区",
+      "hours": 1,
+      "budget": 0,
+      "desc": "通往清水寺的古老石阶坂道，江户末期至大正年间的町家成片保存，属「产宁坂传统的建造物群保存地区」；也写作二宁坂・三宁坂。",
+      "tip": "建议清水寺参拜后顺坡往北下行：三年坂石阶 → 二年坂 → ねねの道方向，一路步行到八坂神社和祇园。京都市官方指南提醒这里要注意：禁止边走边吸烟、不乱丢垃圾、不要长时间驻足拍照挡路。清早人少适合拍街景，但多数店铺尚未开门（规划判断）。",
+      "travel": "市巴士「東山安井」或「五条坂」下车步行约 5 分钟（京都観光Navi）；从清水寺仁王门沿清水坂下行即到三年坂（规划估计数分钟）。",
+      "rain": "雨天石阶湿滑，雨大时缩短停留，可进沿街店铺边逛边避雨（规划建议）；或直接转往八坂神社、祇园。",
+      "food": "坂道沿街有许多纪念品店和餐饮店（京都市官方指南描述）；各店营业时间不一，本次未逐一核实。",
+      "link": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=691",
+      "opening": "公共街道，无开放时间与门票（京都観光Navi 保存地区页面未列营业时间）；沿街店铺各自营业，时间以各店为准。2026-09-24 查询。",
+      "price": "免费（公共街道）；规划预算 0 日元／人，购物另计。",
+      "bestTime": "7:30–9:00 或清水寺参拜后｜清早街景人少；或与清水寺同一上午顺路串联（规划判断）",
+      "sources": [
+        {
+          "label": "京都観光Navi：产宁坂传统的建造物群保存地区",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=691"
+        },
+        {
+          "label": "京都観光Navi：二年坂",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=160"
+        },
+        {
+          "label": "Kyoto Travel：京都观光礼仪（清水寺门前）",
+          "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/"
+        },
+        {
+          "label": "Kyoto Travel：前往东山・清水寺的交通建议",
+          "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-higashiyama-kiyomizu-dera-temple/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "yasaka-shrine",
+      "name": "八坂神社",
+      "en": "Yasaka Shrine",
+      "zone": "东山",
+      "kind": "神社",
+      "hours": 0.5,
+      "budget": 0,
+      "desc": "祇园祭的主祭神社，当地人称「祇园さん」；朱红西楼门正对四条通，本殿为国宝建筑，是串联东山与祇园的中转点。",
+      "tip": "24 小时可参拜，适合放在二年坂・三年坂之后、祇园之前，或晚餐前后顺路参拜。社务所受理时间 9:00–17:00，想求御朱印或护身符请在这段时间内前往（具体授与窗口以现场为准）。",
+      "travel": "京阪「祇園四条」站步行约 5 分钟；阪急「京都河原町」站步行约 8 分钟（官网；京都観光Navi 写约 10 分钟）；京都站乘市巴士 100 或 206 路「祇園」下车即到（官网）。",
+      "rain": "境内以户外为主，雨天可短暂参拜后转往四条通一带的室内商业区（规划建议）。",
+      "food": "京都市官方指南提到境内有时会有小吃摊（非每日保证）；四条通、祇园一带餐厅众多。",
+      "link": "https://www.yasaka-jinja.or.jp/",
+      "opening": "官网（2026-09-24 查询）：24 小时可参拜；社务所受理 9:00–17:00。官网与京都観光Navi 未写 11 月中旬有特别活动。2027 年如有变动以官网为准。",
+      "price": "官方：参拜免费（京都観光Navi 标注「無料」，官网未列参拜费）；规划预算 0 日元／人。",
+      "bestTime": "17:00–19:00｜傍晚从东山走到祇园时顺路参拜，衔接晚餐（规划判断）",
+      "sources": [
+        {
+          "label": "八坂神社官网：交通与参拜时间",
+          "url": "https://www.yasaka-jinja.or.jp/access/"
+        },
+        {
+          "label": "京都観光Navi：八坂神社",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=474"
+        },
+        {
+          "label": "Kyoto Travel：Yasaka-jinja Shrine",
+          "url": "https://kyoto.travel/en/destinations/yasakajinja-shrine/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "gion-hanamikoji",
+      "name": "祇园·花见小路",
+      "en": "Gion Hanamikoji",
+      "zone": "东山",
+      "kind": "街区",
+      "hours": 1,
+      "budget": 0,
+      "desc": "四条通以南的花见小路是祇园甲部花街的石板主街，两侧茶屋、料亭林立，可以感受京都传统花街的街景。",
+      "tip": "务必遵守当地规则（祇园町南侧地区协议会与京都市、京都市观光协会的告示）：花见小路主街是公道，但两侧的弥生小路、南园小路、初音小路、小袖小路、青柳小路、西花见小路等小巷是私道（以传单地图为准），私道内禁止拍照；现场如有「私道・通り抜け禁止」告示，请勿进入。不要在路上驻足、不要走到车道上；禁止拍摄艺妓・舞妓，不要拦截、触碰或尾随；不要触碰店门前的犬矢来、不要倚靠栏杆；垃圾带走。地区告示列明拦路尾随、擅闯私有地、妨碍交通、乱丢垃圾等行为有相应法律或条例罚则，居民可能报警。",
+      "travel": "京阪「祇園四条」站往东步行至四条通与花见小路路口，约 5–10 分钟（规划估计）；从八坂神社西楼门沿四条通往西约 5 分钟（规划估计）。",
+      "rain": "雨天石板路湿滑，撑伞时更要避免停在路中；可缩短散步，改看室内传统表演（例如 Gion Corner，演出时间本次未核实）。",
+      "food": "祇园一带有许多料亭和餐厅，不少需要提前预约；茶屋属私人场所，不能擅自进入（地区告示）。",
+      "link": "https://www.city.kyoto.lg.jp/sankan/page/0000214071.html",
+      "opening": "公共街道，无开放时间与门票；两侧私道与茶屋不对游客开放（地区告示）。京都市「外国人观光客礼仪启发」页面（2026-02-16 更新）列出祇园町南侧地区自 2024 年起的观光礼仪启发活动及告示传单。2026-09-24 查询。",
+      "price": "免费；规划预算 0 日元／人。",
+      "bestTime": "16:00–18:00｜天黑前街景清楚，可衔接八坂神社与晚餐；边走边看、不驻足（规划判断）",
+      "sources": [
+        {
+          "label": "京都市：外国人观光客礼仪启发的取组（含祇园町南侧地区）",
+          "url": "https://www.city.kyoto.lg.jp/sankan/page/0000214071.html"
+        },
+        {
+          "label": "京都市：花见小路观光礼仪传单（祇园町南侧地区协议会，PDF）",
+          "url": "https://www.city.kyoto.lg.jp/sankan/cmsfiles/contents/0000214/214071/tyoutinntirasi.pdf"
+        },
+        {
+          "label": "京都観光Navi：祇园町南侧地区的告示",
+          "url": "https://ja.kyoto.travel/news/format.php?id=428"
+        },
+        {
+          "label": "Kyoto Travel：京都观光礼仪（祇园）",
+          "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "arashiyama-bamboo",
+      "name": "岚山竹林小径",
+      "en": "Arashiyama Bamboo Grove (Chikurin-no-Komichi)",
+      "zone": "岚山",
+      "kind": "自然",
+      "hours": 1,
+      "budget": 0,
+      "desc": "从野宫神社经天龙寺北门通往大河内山庄的约 400 米小路，两侧竹林遮天，是嵯峨岚山最有代表性的景色（京都観光Navi）。",
+      "tip": "京都市官方指南建议清晨前往，并推荐从龟山公园方向走相对清静的路线进入竹林道，龟山公园展望台风景也很好。走完竹林可从天龙寺北门进入天龙寺（北门 8:30 起受理）。不要走上铁轨、禁止边走边吸烟，垃圾带走或丢进指定垃圾桶。",
+      "travel": "嵐電（京福）「嵐山」站步行约 10 分钟；JR 嵯峨野线「嵯峨嵐山」站步行约 13 分钟；阪急「嵐山」站步行约 21 分钟（京都観光Navi）。京都站坐 JR 嵯峨野线快速约 11 分钟到嵯峨嵐山（京都市官方指南）。",
+      "rain": "竹林可撑伞行走，雨天气氛不同；大雨时改以天龙寺方丈、书院等室内参观为主（规划建议）。",
+      "food": "岚山主街（長辻通）一带店铺众多，餐饮营业时间本次未逐一核实；天龙寺直营精进料理「篩月」见天龙寺条目。",
+      "link": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2683",
+      "opening": "公共步道，京都観光Navi（2026-09-24 查询）未列开放时间与门票；OpenStreetMap 标注 24/7、免费（地图数据，非官方公告）。",
+      "price": "免费；规划预算 0 日元／人。",
+      "bestTime": "7:30–8:30｜清晨人少、光线透过竹叶；8:30 起可从北门接天龙寺（规划判断）",
+      "sources": [
+        {
+          "label": "京都観光Navi：竹林の小径",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2683"
+        },
+        {
+          "label": "Kyoto Travel：京都观光礼仪（岚山）",
+          "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/"
+        },
+        {
+          "label": "Kyoto Travel：前往嵯峨・岚山的交通建议",
+          "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-saga-arashiyama/"
+        },
+        {
+          "label": "天龙寺官网：参拜时间（北门受理）",
+          "url": "https://www.tenryuji.com/visit/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "tenryu-ji",
+      "name": "天龙寺",
+      "en": "Tenryu-ji",
+      "zone": "岚山",
+      "kind": "寺院",
+      "hours": 1.5,
+      "budget": 1300,
+      "desc": "临济宗天龙寺派大本山、世界遗产；相传为梦窗国师所作的曹源池庭园以岚山、龟山为借景，秋季红叶与庭园相映。",
+      "tip": "庭园 8:30 开门；2026 年官网公布 11/14–11/30 有「特别早朝参拜」7:30 起（仅庭园受理处，北门 8:30 起），2027 年是否举办出发前查官网。法堂「云龙图」另付 500 日元，平时只在周六日和节假日开放，2026 年秋季特别参拜期（9/19–12/6）每日开放；11/16–18（周二至周四）能否参观取决于 2027 年公布的特别参拜期。从北门可直接连通竹林小径。",
+      "travel": "嵐電「嵐山」站出站即到（官网日文页；英文页写步行 5 分钟）；JR「嵯峨嵐山」站步行 13 分钟；阪急「嵐山」站步行 15 分钟；也可乘市巴士 11、28、93 路至「嵐山天龍寺前」（官网）。步行时间为官网口径。",
+      "rain": "大方丈、书院、多宝殿（诸堂）可在室内沿廊观赏庭园，适合作为岚山雨天主站（规划建议）。",
+      "food": "寺内直营精进料理「篩月」：11:00–14:00，周四定休；最便宜的「雪」3,800 日元，需提前 2 天预约，另付庭园参拜费 500 日元（官网，2026-09-24 查询）。",
+      "link": "https://www.tenryuji.com/",
+      "opening": "官网（2026-09-24 查询）：庭园 8:30–17:00（16:50 停止受理）；诸堂 8:30–16:45（16:30 停止受理）；法堂云龙图 9:00–16:30（16:20 停止受理），平时仅周六日及节假日开放，春秋特别参拜期每日开放（2026 年秋季为 9/19–12/6）。诸堂和法堂会因法会临时停止参观。2026 年特别早朝参拜为 11/14–11/30，7:30 起。2027 年安排未公布，出发前再核对。",
+      "price": "官方价：庭园 500 日元（高中生以上），诸堂加 300 日元，法堂云龙图另 500 日元；规划预算按庭园＋诸堂＋法堂 1,300 日元／人（若法堂当天不开放则为 800 日元）。",
+      "bestTime": "8:30–10:00｜先走竹林再从北门入寺，赶在人多之前看曹源池庭园（规划判断）",
+      "sources": [
+        {
+          "label": "天龙寺官网：参拜时间与参拜费",
+          "url": "https://www.tenryuji.com/visit/"
+        },
+        {
+          "label": "天龙寺官网：Admission and Access（英文）",
+          "url": "https://www.tenryuji.com/en/visit/"
+        },
+        {
+          "label": "天龙寺官网：2026 年特别公开与行事日程",
+          "url": "https://www.tenryuji.com/info/2025/12/2026.html"
+        },
+        {
+          "label": "天龙寺官网：云龙图",
+          "url": "https://www.tenryuji.com/unryuzu/"
+        },
+        {
+          "label": "天龙寺官网：精进料理篩月",
+          "url": "https://www.tenryuji.com/shigetsu/"
+        },
+        {
+          "label": "京都観光Navi：天龙寺",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=428"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "kinkaku-ji",
+      "name": "金阁寺（鹿苑寺）",
+      "en": "Kinkaku-ji (Rokuon-ji)",
+      "zone": "北区",
+      "kind": "寺院",
+      "hours": 1,
+      "budget": 500,
+      "desc": "足利义满所建的金色三层舍利殿倒映在镜湖池中，世界遗产；正式名称为鹿苑寺，金阁寺是通称。",
+      "tip": "9:00 开门即入，约 1 小时足够。官网 FAQ：只允许个人留念范围内的小型相机快拍，以公开给第三方为目的的拍摄（包括发到社交媒体）、商业拍摄、团体照、直播和无人机均被谢绝；寺内没有行李寄存和储物柜，庭园内没有吃便当的地方。金阁旁之后有台阶，轮椅和婴儿车只能到金阁旁。",
+      "travel": "市巴士「金閣寺道」下车步行约 3 分钟（京都観光Navi；京都市官方交通指南写约 5 分钟到入口）。京都市官方建议：京都站坐地铁乌丸线到「北大路」站，换 204 或 205 路巴士（蓝色站台 E–G），约 11 分钟到「金閣寺道」；不建议从京都站直接坐 205 路全程（慢且拥挤）。",
+      "rain": "全程为户外庭园，雨天仍可撑伞参观但缩短停留；可与二条城（二之丸御殿为室内参观）同日安排（规划建议）。",
+      "food": "庭园内没有饮食区（官网 FAQ）；周边餐饮本次未核实，建议结合下一站安排用餐。",
+      "link": "https://www.shokoku-ji.jp/kinkakuji/",
+      "opening": "官网（2026-09-24 查询）：9:00–17:00，全年无休；特别拜观时时间可能不同。官网未写 11 月有特别开放。2027 年如有变动以官网为准，出发前再核对。",
+      "price": "官方价：大人（高中生以上）500 日元、中小学生 300 日元（官网交通页；2023-04-01 起的价格）；规划预算 500 日元／人。",
+      "bestTime": "9:00–10:00｜开门即入，尽量早于团体客到达（规划判断）",
+      "sources": [
+        {
+          "label": "金阁寺官网：交通与参拜费",
+          "url": "https://www.shokoku-ji.jp/kinkakuji/access/"
+        },
+        {
+          "label": "金阁寺官网：FAQ（拍摄、寄存、饮食）",
+          "url": "https://www.shokoku-ji.jp/kinkakuji/faq/"
+        },
+        {
+          "label": "金阁寺官网：参拜志纳料改定公告（2023）",
+          "url": "https://www.shokoku-ji.jp/kinkakuji/news/%e3%80%90%e9%87%8d%e8%a6%81%e3%81%aa%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b%e3%80%91%e5%8f%82%e6%8b%9d%e5%bf%97%e7%b4%8d%e6%96%99%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/"
+        },
+        {
+          "label": "京都観光Navi：鹿苑寺（金阁寺）",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=490"
+        },
+        {
+          "label": "Kyoto Travel：前往金阁寺的交通建议",
+          "url": "https://kyoto.travel/en/info/transportation/kinkakuji_kinugasa.html"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "nishiki-market",
+      "name": "锦市场",
+      "en": "Nishiki Market",
+      "zone": "中京",
+      "kind": "市场",
+      "hours": 1.5,
+      "budget": 0,
+      "desc": "锦小路通寺町至高仓之间约 400 米、130 余家店铺的商店街，被称为「京都的厨房」，可以买到京野菜、渍物、豆皮、玉子烧等京都食材。",
+      "tip": "市场明确要求不要边走边吃：买的东西在该店店前或店内吃完，或带回去；垃圾丢进购买店铺的垃圾桶（锦市场官网、京都市官方指南）。通道窄，别在路中停下拍照。出发前可在京都市官方「观光快适度地图」和锦市场直播画面查看拥挤程度。",
+      "travel": "地铁乌丸线「四条」站、阪急「烏丸」站步行约 3 分钟；阪急「京都河原町」站约 4 分钟；京阪「祇園四条」站约 10 分钟（锦市场官网）。",
+      "rain": "市场为有顶棚的拱廊商店街（京都市官方指南），雨天照常可逛，本身就是市中心的雨天备选。",
+      "food": "市场内即是美食：玉子烧、海鳗天妇罗、生麸、章鱼烧等（京都市官方指南列举）；按店铺规则在店前或店内吃完。",
+      "link": "https://www.kyoto-nishiki.or.jp/",
+      "opening": "锦市场官网与京都観光Navi（2026-09-24 查询）均未写统一营业时间和定休日，各店自定；出发前查看具体店铺信息。",
+      "price": "无门票；规划预算 0 日元／人（餐饮另计，建议从每日餐饮预算中留出）。",
+      "bestTime": "10:30–13:00｜上午到午餐时段边逛边吃当午餐（规划判断；各店营业时间不同，官网未写明）",
+      "sources": [
+        {
+          "label": "锦市场官网：交通",
+          "url": "https://www.kyoto-nishiki.or.jp/access/"
+        },
+        {
+          "label": "锦市场官网：礼仪（禁止边走边吃）",
+          "url": "https://www.kyoto-nishiki.or.jp/manner/"
+        },
+        {
+          "label": "京都観光Navi：京都锦市场商店街",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=4&tourism_id=1174"
+        },
+        {
+          "label": "Kyoto Travel：Kyoto Nishiki Food Market",
+          "url": "https://kyoto.travel/en/destinations/kyoto-nishiki-food-market/"
+        },
+        {
+          "label": "Kyoto Travel：京都观光礼仪（锦市场）",
+          "url": "https://kyoto.travel/en/travel-inspiration/things-to-keep-in-mind-while-exploring-kyoto-and-its-kiyomizu-arashiyama-and-gion-areas/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "nijo-castle",
+      "name": "二条城",
+      "en": "Nijo-jo Castle",
+      "zone": "中京",
+      "kind": "城郭",
+      "hours": 2,
+      "budget": 1300,
+      "desc": "德川家康 1603 年所建的将军京都居所，国宝二之丸御殿有狩野派障壁画和著名的「莺声地板」；城内有枫树、银杏等，秋季可赏红叶黄叶。",
+      "tip": "二之丸御殿与本丸御殿内禁止拍照，城内除指定区域外禁止饮食，禁止无人机。本丸御殿需提前在官网购买指定时间的 WEB 票（来城日前 30 天开售）。注意：按官网现行规则，本丸御殿每月第 3 个周一及次日休馆——2027-11-15（周一）是当月第 3 个周一，所以 11/16（周二）本丸御殿不开放，想看本丸请安排在 11/17 或 11/18。官方每天有日语/英语定时导览团，也可租收费语音导览机。",
+      "travel": "地铁东西线「二条城前」站下车即到（京都観光Navi）；当天持地铁一日券或地铁・巴士一日券，入城券一般票便宜 100 日元（官网）。",
+      "rain": "二之丸御殿为室内参观；另有「二条城障壁画 展示收藏馆」（100 日元，需另持入城券），适合雨天（官网）。",
+      "food": "城内大休憩所有商店与咖啡区（京都市观光协会二条城卖店 8:45–16:45）；茶室「和楽庵」由茶房前田提供抹茶、煎茶套餐，9:30–16:30（16:00 最后点单）（官网，2026-09-24 查询）。",
+      "link": "https://nijo-jocastle.city.kyoto.lg.jp/",
+      "opening": "官网（2026-09-24 查询）：开城 8:45，16:00 停止入城，17:00 闭城；二之丸御殿受理 8:45–16:10；本丸御殿受理 9:30–16:00（预约制）。休城日 12/29–31；本丸御殿每月第 3 个周一及次日休（遇节假日则开放）。2026 年「二条城まつり」10/23–12/6 期间，白天参观 8:45–17:00（16:00 最后入城），另有夜间灯光活动 10/23–12/5 18:00–22:00（21:00 最后入场，昼夜分别购票）。2027 年是否举办及日期未公布，出发前再核对。",
+      "price": "官方价：入城＋二之丸御殿 一般 1,300 日元；仅入城 800 日元；本丸御殿另 1,000 日元（需预约，另需入城券）；2026 年秋季夜间灯光活动 1,600–2,400 日元（依购买时间和星期不同）。规划预算按入城＋二之丸 1,300 日元／人（本丸和夜场未计入）。",
+      "bestTime": "8:45–10:30｜开城即入先看二之丸御殿；官网提示巴士停车场在 9:00 前后和 10:30 前后很拥挤，团体客集中（规划判断）",
+      "sources": [
+        {
+          "label": "二条城官网：开城时间与休城日",
+          "url": "https://nijo-jocastle.city.kyoto.lg.jp/guide/annai/"
+        },
+        {
+          "label": "二条城官网：门票价格",
+          "url": "https://nijo-jocastle.city.kyoto.lg.jp/admission/fee/"
+        },
+        {
+          "label": "二条城官网：二条城まつり 2026",
+          "url": "https://nijo-jocastle.city.kyoto.lg.jp/event/matsuri2026/"
+        },
+        {
+          "label": "二条城官网：各种服务（导览、商店、茶房）",
+          "url": "https://nijo-jocastle.city.kyoto.lg.jp/service/"
+        },
+        {
+          "label": "二条城官网：交通（巴士停车场拥挤时段）",
+          "url": "https://nijo-jocastle.city.kyoto.lg.jp/access/"
+        },
+        {
+          "label": "京都観光Navi：元离宫二条城",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2020"
+        },
+        {
+          "label": "Kyoto Travel：Nijo-jo Castle",
+          "url": "https://kyoto.travel/en/destinations/nijojo-castle/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "philosophers-path",
+      "name": "哲学之道",
+      "en": "Philosopher's Path (Tetsugaku-no-michi)",
+      "zone": "左京",
+      "kind": "散步道",
+      "hours": 1.5,
+      "budget": 0,
+      "desc": "沿琵琶湖疏水分线、连接银阁寺与若王子神社（南禅寺方向）的约 2 公里石板散步道，因哲学家西田几多郎常在此散步而得名；春樱秋叶都很有名。",
+      "tip": "建议银阁寺参观后由北向南走，全程约 2 km（慢走 40–60 分钟，规划估计）。沿途附近有法然院、安乐寺等较清静的寺院（京都市官方指南）；南端附近有永观堂、南禅寺（均另收费，本次未核对开放时间和票价）。道路两侧是住宅区，请保持安静、垃圾带走。",
+      "travel": "北端：市巴士「銀閣寺道」下车（京都観光Navi 建议旺季先坐地铁到「今出川」或「丸太町」再换 203/204 路）；南端：地铁东西线「蹴上」站步行约 20 分钟，或市巴士 5 路「南禅寺永観堂前」下车（京都観光Navi）。",
+      "rain": "全程户外，雨天可缩短为银阁寺到法然院附近一段后结束（规划建议）。",
+      "food": "沿途与周边有小店，营业时间本次未逐一核实；可在银阁寺参道一带或南端南禅寺周边用餐。",
+      "link": "https://tetsugakunomichi.jp/",
+      "opening": "公共散步道，无开放时间与门票（京都観光Navi 未列营业时间，2026-09-24 查询）；由地方团体「哲学之道保胜会」参与维护。",
+      "price": "免费；规划预算 0 日元／人。",
+      "bestTime": "9:30–11:30｜接在 8:30 开门的银阁寺之后，由北往南走（规划判断）",
+      "sources": [
+        {
+          "label": "京都観光Navi：哲学の道",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2684"
+        },
+        {
+          "label": "Kyoto Travel：Philosopher's Path",
+          "url": "https://kyoto.travel/en/destinations/philosophers-path-tetsugakunomichi/"
+        },
+        {
+          "label": "哲学之道保胜会：关于保胜会",
+          "url": "https://tetsugakunomichi.jp/about.html"
+        },
+        {
+          "label": "Kyoto Travel：前往银阁寺・哲学之道的交通建议",
+          "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-ginkaku-ji-temple-philosophers-path/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    },
+    {
+      "id": "ginkaku-ji",
+      "name": "银阁寺（慈照寺）",
+      "en": "Ginkaku-ji (Jisho-ji)",
+      "zone": "左京",
+      "kind": "寺院",
+      "hours": 1,
+      "budget": 1000,
+      "desc": "由足利义政的山庄东山殿改建而成，国宝银阁（观音殿）与银沙滩、向月台的庭园代表东山文化；正式名称为慈照寺。",
+      "tip": "8:30 开门即入，官网说参观约需 30 分钟；庭园内部分区域有台阶，轮椅和婴儿车无法进入展望所等处。2026 年秋季特别拜观（11/1–12/5）可进入本堂、国宝东求堂、弄清亭，但只有日语导览，需在本堂前现场登记，另付 2,000 日元；导览中禁止拍照录音，也禁止使用翻译 App 或翻译机，手机须寄存——不懂日语的旅客可酌情跳过。2027 年是否举办出发前查官网。",
+      "travel": "市巴士「銀閣寺道」下车步行约 10 分钟，「銀閣寺前」约 5 分钟（京都観光Navi）；京都市官方指南建议京都站坐地铁乌丸线到「今出川」，换 203 路巴士到「銀閣寺道」，全程约 43 分钟。",
+      "rain": "庭园以户外为主，雨天石阶湿滑；雨大时缩短停留，并取消之后的哲学之道散步（规划建议）。",
+      "food": "银阁寺参道一带有商店（京都市官方指南提到参道适合散步）；具体餐饮营业时间本次未核实。",
+      "link": "https://www.shokoku-ji.jp/ginkakuji/",
+      "opening": "官网（2026-09-24 查询）：夏期（3/1–11/30）8:30–17:00（最后入场 17:00，17:20 前离寺）；冬期（12/1–2 月底）9:00–16:30；全年无休。2026 年秋季特别拜观为 11/1–12/5（导览场次 10:00、11:00、12:00、13:30、14:30、15:30，每场约 20 人）。2027 年安排未公布，出发前再核对。",
+      "price": "官方价（2026-04-01 起）：大人（高中生以上）1,000 日元、中小学生 500 日元；2026 年秋季特别拜观另 2,000 日元。规划预算按 1,000 日元／人（特别拜观未计入）。",
+      "bestTime": "8:30–9:30｜开门即入，之后接哲学之道往南走（规划判断）",
+      "sources": [
+        {
+          "label": "银阁寺官网：交通、参拜时间与参拜费",
+          "url": "https://www.shokoku-ji.jp/ginkakuji/access/"
+        },
+        {
+          "label": "银阁寺官网：参拜志纳料改定公告（2026-04-01 起）",
+          "url": "https://www.shokoku-ji.jp/ginkakuji/news/%e3%80%90%e9%87%8d%e8%a6%81%e3%80%91%e3%80%80%e5%8f%82%e6%8b%9d%e5%bf%97%e7%b4%8d%e6%96%99%e6%94%b9%e5%ae%9a%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b2026%e5%b9%b44%e6%9c%881%e6%97%a5%e3%82%88/"
+        },
+        {
+          "label": "银阁寺官网：秋季特别拜观（令和 8 年）",
+          "url": "https://www.shokoku-ji.jp/ginkakuji/event/"
+        },
+        {
+          "label": "银阁寺官网：FAQ（最后入场、所需时间）",
+          "url": "https://www.shokoku-ji.jp/ginkakuji/faq/"
+        },
+        {
+          "label": "京都観光Navi：慈照寺（银阁寺）",
+          "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=308"
+        },
+        {
+          "label": "Kyoto Travel：前往银阁寺・哲学之道的交通建议",
+          "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-ginkaku-ji-temple-philosophers-path/"
+        }
+      ],
+      "checkedAt": "2026-09-24"
+    }
+  ]
+}

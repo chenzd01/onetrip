@@ -1,0 +1,437 @@
+{
+  "version": 1,
+  "checkedAt": "2026-09-24",
+  "currency": "JPY",
+  "directory": {
+    "edition": 2026,
+    "status": "partial",
+    "sourceURL": "https://guide.michelin.com/jp/en/article/michelin-guide-ceremony/michelin-guide-kyoto-osaka-2026-stars-reveal",
+    "notes": "完整性锚点：米其林官方 2026-04-23 发布的《米其林指南京都大阪 2026》文章（2026-09-24 读取）。文章写明京都共 244 家：三星 6、二星 19、一星 73、必比登 47、入选 99（另有绿星 10）。同日读取官网京都动态目录显示 249 家：三星 6、二星 19、一星 72、必比登 47、入选 105，与发布时数字不同，说明目录在年内有增补和撤下，以发布文章为锚点。本包只收录 6 家符合路线与日常预算的餐厅（其中 1 家为必比登），没有逐家收录星级名单；校验要求 counts 与收录的星级餐厅数一致，因此不写 counts，status 记为 partial。其余 5 家已对照 2026-09-24 的京都动态目录全部 249 家，均不在米其林名单中。2027 年版（东京、京都大阪、奈良）官方预告于 2027-02-16 公布，早于本次出行，出发前需按新版复核荣誉。"
+  },
+  "restaurants": [
+    {
+      "id": "yudofu-sagano",
+      "name": "汤豆腐 嵯峨野",
+      "en": "Yudofu Sagano",
+      "zone": "岚山",
+      "type": "restaurant",
+      "cuisines": ["汤豆腐", "豆腐料理"],
+      "award": { "kind": "none" },
+      "description": "岚山天龙寺一带的汤豆腐老店，用京都传统的嵯峨豆腐做汤豆腐定食，也有加汤叶和京野菜的御膳。适合看完竹林、天龙寺后吃午餐。",
+      "address": "45 Saga-Tenryuji Susukinobaba-cho, Ukyo-ku, Kyoto 616-8385",
+      "coordinates": { "latitude": 35.014476, "longitude": 135.6745122 },
+      "menus": [
+        {
+          "name": "汤豆腐定食（湯豆腐定食）",
+          "meal": "any",
+          "price": 4400,
+          "basis": "perPerson",
+          "tax": "nett",
+          "includes": "官网标价 4,400 日元（税込）。官网列出的组成：温物、扬物、小钵、渍物加汤豆腐；冬季为汤豆腐，夏季可在汤豆腐、辛子豆腐、三轮冷素面中选。",
+          "sourceURL": "https://kyoto-sagano.jp/cuisine",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "嵯峨野御膳",
+          "meal": "any",
+          "price": 6600,
+          "basis": "perPerson",
+          "tax": "nett",
+          "includes": "官网标价 6,600 日元（税込）。京野菜与汤叶料理加汤豆腐：椀物、八寸 6 种、汤叶刺身、季节蔬菜炊合、季节逸品、时蔬天妇罗、米饭渍物、甜品。",
+          "sourceURL": "https://kyoto-sagano.jp/cuisine",
+          "checkedAt": "2026-09-24"
+        }
+      ],
+      "booking": {
+        "url": "https://kyoto-sagano.jp/",
+        "policy": "官网首页公布了预约取消规定，说明可预约：取消或改期请在营业时间内（11:00–17:30）打电话或发邮件。官网没有写明是否必须预约。本轮没有查询任何预约系统。",
+        "cancellation": "官网首页：预约日 2 天前取消免费；前一天或当天联系取消收 50%；当天未联系收 100%；退款手续费由顾客承担。",
+        "availability": "notChecked",
+        "checkedAt": "2026-09-24"
+      },
+      "hours": "官网（2026-09-24 核对）：11:00–17:30，最后点餐 16:30；不定休，营业时间随季节调整，豆腐卖完即提前结束。",
+      "durationMinutes": 60,
+      "tips": [
+        "官网写明豆腐卖完就结束，下午太晚去可能已经收了。",
+        "官网写不定休，出发前再看一次官网公告。",
+        "官网交通说明：岚电岚山站、市巴士「嵐山天龍寺」站步行约 5 分钟，JR 嵯峨岚山站步行约 10 分钟。",
+        "11 月中旬是红叶季（规划判断），午餐高峰可能要等位。"
+      ],
+      "sources": [
+        { "title": "汤豆腐 嵯峨野 官网 · 料理（菜单与价格）", "url": "https://kyoto-sagano.jp/cuisine", "checkedAt": "2026-09-24" },
+        { "title": "汤豆腐 嵯峨野 官网 · 交通与营业时间", "url": "https://kyoto-sagano.jp/access", "checkedAt": "2026-09-24" },
+        { "title": "汤豆腐 嵯峨野 官网首页 · 取消规定", "url": "https://kyoto-sagano.jp/", "checkedAt": "2026-09-24" },
+        { "title": "OpenStreetMap way 319336315（坐标）", "url": "https://www.openstreetmap.org/way/319336315", "checkedAt": "2026-09-24" }
+      ],
+      "depth": "detailed",
+      "checkedAt": "2026-09-24",
+      "pricingStatus": "verified"
+    },
+    {
+      "id": "shigetsu-tenryuji",
+      "name": "天龙寺 篩月",
+      "en": "Shigetsu (Tenryu-ji)",
+      "zone": "岚山",
+      "type": "restaurant",
+      "cuisines": ["精进料理", "素食"],
+      "award": {
+        "kind": "bibGourmand",
+        "year": 2026,
+        "sourceURL": "https://guide.michelin.com/jp/en/kyoto-region/kyoto/restaurant/shigetsu"
+      },
+      "description": "天龙寺直营的精进料理（寺院素食）店，就在世界遗产天龙寺境内。米其林指南京都大阪 2026 必比登推荐，同时获绿星。菜以芝麻豆腐、炸豆腐和各类素菜为主，不用任何动物性食材。",
+      "address": "Tenryu-ji, 68 Saga-Tenryuji Susukinobaba-cho, Ukyo-ku, Kyoto 616-8385",
+      "coordinates": { "latitude": 35.0151336, "longitude": 135.6736022 },
+      "menus": [
+        {
+          "name": "雪（一汁五菜）",
+          "meal": "lunch",
+          "price": 3800,
+          "basis": "perPerson",
+          "tax": "unknown",
+          "includes": "需提前 2 天预约；另付庭园参拜费 500 日元（不能用参拜费抵餐费）。官网写明不收服务费，但没写明是否含税；菜单随季节变化。",
+          "sourceURL": "https://www.tenryuji.com/shigetsu/",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "月（一汁六菜）",
+          "meal": "lunch",
+          "price": 6500,
+          "basis": "perPerson",
+          "tax": "unknown",
+          "includes": "2 人起，需提前 3 天预约；另付庭园参拜费 500 日元。官网写明不收服务费，没写明是否含税。",
+          "sourceURL": "https://www.tenryuji.com/shigetsu/",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "花（一汁七菜）",
+          "meal": "lunch",
+          "price": 9000,
+          "basis": "perPerson",
+          "tax": "unknown",
+          "includes": "2 人起，需提前 3 天预约；另付庭园参拜费 500 日元。官网写明不收服务费，没写明是否含税。",
+          "sourceURL": "https://www.tenryuji.com/shigetsu/",
+          "checkedAt": "2026-09-24"
+        }
+      ],
+      "booking": {
+        "url": "https://www.tenryuji.com/shigetsu/contact.html",
+        "policy": "天龙寺官网：雪需提前 2 天预约；月、花需 2 人以上并提前 3 天预约。电话受理 9:00–17:00，官网另设预约表单。本轮没有打开预约表单，也没有查询空位。",
+        "availability": "notChecked",
+        "checkedAt": "2026-09-24"
+      },
+      "hours": "天龙寺官网（2026-09-24 核对）：11:00–14:00，每周四定休；米其林页面显示的营业日与此一致。",
+      "durationMinutes": 75,
+      "closedWeekdays": [4],
+      "tips": [
+        "店在天龙寺境内，用餐要另付庭园参拜费 500 日元（官网）。",
+        "周四定休：第 3 天（周四）不能安排，第 2 天（周三）可以。",
+        "三种套餐都要提前预约（雪 2 天，月/花 3 天且 2 人起）；加入行程不代表已订好。",
+        "米其林 2027 版将于 2027-02-16 公布，出发前复核是否仍是必比登。"
+      ],
+      "sources": [
+        { "title": "天龙寺官网 · 精进料理「篩月」（营业时间、菜单、预约条件）", "url": "https://www.tenryuji.com/shigetsu/", "checkedAt": "2026-09-24" },
+        { "title": "米其林指南 · Shigetsu（2026 必比登）", "url": "https://guide.michelin.com/jp/en/kyoto-region/kyoto/restaurant/shigetsu", "checkedAt": "2026-09-24" },
+        { "title": "OpenStreetMap node 4264122379（坐标）", "url": "https://www.openstreetmap.org/node/4264122379", "checkedAt": "2026-09-24" }
+      ],
+      "depth": "detailed",
+      "checkedAt": "2026-09-24",
+      "pricingStatus": "verified"
+    },
+    {
+      "id": "omen-pontocho",
+      "name": "おめん 四条先斗町店",
+      "en": "Omen Shijo Pontocho",
+      "zone": "河原町",
+      "type": "casual",
+      "cuisines": ["乌冬面"],
+      "award": { "kind": "none" },
+      "description": "京都乌冬老店「おめん」的四条先斗町店。招牌是蘸面乌冬：面配芝麻、金平牛蒡和时令药味，蘸较浓的高汤吃；另有素食乌冬。离四条河原町和祇园都近，适合晚餐。",
+      "address": "171-2 Kashiwaya-cho, Nakagyo-ku, Kyoto 604-8014",
+      "coordinates": { "latitude": 35.0039253, "longitude": 135.7708737 },
+      "menus": [
+        {
+          "name": "招牌おめん（温・冷）",
+          "meal": "any",
+          "price": 1520,
+          "basis": "perDish",
+          "tax": "nett",
+          "includes": "官网菜单（令和8年9月版）写明「すべて税込価格」。蘸面乌冬配芝麻、金平牛蒡和时令药味；大碗 1,670 日元。",
+          "sourceURL": "https://omen.co.jp/pages/menus",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "おめんと天ぷらセット（乌冬配天妇罗）",
+          "meal": "any",
+          "price": 2400,
+          "basis": "perSet",
+          "tax": "nett",
+          "includes": "官网菜单（令和8年9月版），税込。",
+          "sourceURL": "https://omen.co.jp/pages/menus",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "精进おめん（素食，温・冷）",
+          "meal": "any",
+          "price": 1580,
+          "basis": "perDish",
+          "tax": "nett",
+          "includes": "官网列在素食菜单下，税込（令和8年9月版）。",
+          "sourceURL": "https://omen.co.jp/pages/menus",
+          "checkedAt": "2026-09-24"
+        }
+      ],
+      "booking": {
+        "url": "https://omen.co.jp/pages/shops",
+        "policy": "官网：先斗町店目前不接受预约，也不接受经 AutoReserve 等电话代订服务的预约，到店排队。",
+        "availability": "walkIn",
+        "checkedAt": "2026-09-24"
+      },
+      "hours": "官网（2026-09-24 核对）：午市 11:00–16:00（最后点餐 15:00），晚市 17:00–21:00（最后点餐 20:00）；定休日写「木曜不定休」（部分周四休息）和 12/30–1/2，特别营业日以官网营业日历为准。",
+      "durationMinutes": 50,
+      "closedWeekdays": [4],
+      "tips": [
+        "官网写「木曜不定休」，这里保守按周四休息处理；本包安排在第 2 天（周三）晚餐。",
+        "不接受预约，晚餐高峰可能要排队。",
+        "官网菜单是令和8年（2026）9 月版，季节菜会换，价格以店内为准。",
+        "可用现金、信用卡和 PayPay（官网）。"
+      ],
+      "sources": [
+        { "title": "おめん官网 · 店铺信息（营业时间、预约）", "url": "https://omen.co.jp/pages/shops", "checkedAt": "2026-09-24" },
+        { "title": "おめん官网 · お品書き（令和8年9月）", "url": "https://omen.co.jp/pages/menus", "checkedAt": "2026-09-24" },
+        { "title": "OpenStreetMap node 5163420190（坐标）", "url": "https://www.openstreetmap.org/node/5163420190", "checkedAt": "2026-09-24" }
+      ],
+      "depth": "detailed",
+      "checkedAt": "2026-09-24",
+      "pricingStatus": "verified"
+    },
+    {
+      "id": "kyosaimi-nomura-karasuma",
+      "name": "京菜味のむら 乌丸本店",
+      "en": "Kyo-Saimi Nomura Karasuma",
+      "zone": "乌丸",
+      "type": "casual",
+      "cuisines": ["京都家常菜（おばんざい）", "定食"],
+      "award": { "kind": "none" },
+      "description": "以蔬菜为主的京都家常菜（おばんざい）定食店。可以从橱柜里自选 6 种小钵配饭和味噌汤，也可以点含招牌汤叶盖饭和 12 种小钵的「雅ご膳」。早上 7 点开门。",
+      "address": "224 Hashibenkei-cho, Takoyakushi-dori Karasuma Nishi-iru, Nakagyo-ku, Kyoto 604-8151",
+      "coordinates": { "latitude": 35.006045, "longitude": 135.7587476 },
+      "menus": [
+        {
+          "name": "おばんざいセット（自选 6 种小钵）",
+          "meal": "any",
+          "price": 850,
+          "basis": "perSet",
+          "tax": "nett",
+          "includes": "官网标价 850 日元（税込）。从橱柜的 10 种以上当日小钵中选 6 种，附米饭（白米或杂谷米）和味噌汤。",
+          "sourceURL": "https://www.nomurafoods.jp/shops/karasuma/",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "雅ご膳",
+          "meal": "any",
+          "price": 1800,
+          "basis": "perSet",
+          "tax": "nett",
+          "includes": "官网标价 1,800 日元（税込）。招牌汤叶盖饭加 12 种推荐小钵，附味噌汤。",
+          "sourceURL": "https://www.nomurafoods.jp/shops/karasuma/",
+          "checkedAt": "2026-09-24"
+        }
+      ],
+      "booking": {
+        "url": "https://www.nomurafoods.jp/shops/karasuma/",
+        "policy": "官网：乌丸本店不接受预约（官网说明只有锦店可预约）。",
+        "availability": "walkIn",
+        "checkedAt": "2026-09-24"
+      },
+      "hours": "官网（2026-09-24 核对）：7:00–14:30，最后点餐 14:00；官网写无定休日，如有临时休息会在店铺页公告。",
+      "durationMinutes": 45,
+      "tips": [
+        "最后点餐 14:00，午餐建议 13:00 前到（规划估计）。",
+        "早上 7 点开门，也可以当早餐。",
+        "从二条城前站坐地铁东西线到乌丸御池站再步行，吃完还能从乌丸御池坐东西线去蹴上（南禅寺方向）；步行时间为规划估计。",
+        "官网写无定休日，适合周四（第 3 天）。"
+      ],
+      "sources": [
+        { "title": "京菜味のむら官网 · 乌丸本店（营业时间、菜单、预约）", "url": "https://www.nomurafoods.jp/shops/karasuma/", "checkedAt": "2026-09-24" },
+        { "title": "OpenStreetMap node 13859503801（坐标）", "url": "https://www.openstreetmap.org/node/13859503801", "checkedAt": "2026-09-24" }
+      ],
+      "depth": "detailed",
+      "checkedAt": "2026-09-24",
+      "pricingStatus": "verified"
+    },
+    {
+      "id": "konnamonja-nishiki",
+      "name": "こんなもんじゃ（锦市场）",
+      "en": "Konnamonja",
+      "zone": "锦市场",
+      "type": "stall",
+      "cuisines": ["豆乳甜甜圈", "豆腐甜品"],
+      "award": { "kind": "none" },
+      "description": "京豆腐老铺「京とうふ藤野」在锦市场堺町角开的直营店。招牌是现炸的一口大小豆乳甜甜圈，另有豆乳软冰淇淋、生汤叶、胡麻豆腐甜品等。",
+      "address": "494 Nakauoya-cho, Nishikikoji-dori Sakaimachi-kado, Nakagyo-ku, Kyoto 604-8125",
+      "coordinates": { "latitude": 35.0051134, "longitude": 135.7632372 },
+      "menus": [
+        {
+          "name": "豆乳甜甜圈（官网未公布价格）",
+          "meal": "snack",
+          "price": null,
+          "basis": "perDish",
+          "tax": "unknown",
+          "includes": "官网菜单页没有显示价格（页面源码里有被注释掉、不对外显示的旧价格，未采用）。以店头标价为准。",
+          "sourceURL": "https://www.kyotofu.co.jp/shoplist/monjya/monjya-menu",
+          "checkedAt": "2026-09-24"
+        }
+      ],
+      "booking": {
+        "url": "",
+        "policy": "官网没有提到预约；这是店头现炸现卖的小店。本轮没有核实是否接受预约。",
+        "availability": "notChecked",
+        "checkedAt": "2026-09-24"
+      },
+      "hours": "官网（2026-09-24 核对）：10:00–18:00，营业时间随季节调整；不定休。",
+      "durationMinutes": 15,
+      "tips": [
+        "锦市场官方请求：不要边走边吃，在购买的店门前或店内吃完。",
+        "豆乳甜甜圈含小麦、鸡蛋、乳（官网过敏原说明）。",
+        "官网写不定休，营业时间随季节调整。"
+      ],
+      "sources": [
+        { "title": "京とうふ藤野官网 · こんなもんじゃ 店铺信息", "url": "https://www.kyotofu.co.jp/shoplist/monjya/monjya-access", "checkedAt": "2026-09-24" },
+        { "title": "京とうふ藤野官网 · こんなもんじゃ 菜单", "url": "https://www.kyotofu.co.jp/shoplist/monjya/monjya-menu", "checkedAt": "2026-09-24" },
+        { "title": "京都锦市场商店街官网 · 给游客的请求", "url": "https://www.kyoto-nishiki.or.jp/en/manner/", "checkedAt": "2026-09-24" },
+        { "title": "日本邮政 · 京都市中京区邮编一览（中魚屋町 604-8125）", "url": "https://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=26&city=1261040", "checkedAt": "2026-09-24" },
+        { "title": "OpenStreetMap way 348101164（坐标）", "url": "https://www.openstreetmap.org/way/348101164", "checkedAt": "2026-09-24" }
+      ],
+      "depth": "light",
+      "checkedAt": "2026-09-24",
+      "pricingStatus": "notPublished"
+    },
+    {
+      "id": "kagizen-yoshifusa-shijo",
+      "name": "鍵善良房 四条本店",
+      "en": "Kagizen Yoshifusa Shijo Honten",
+      "zone": "祇园",
+      "type": "casual",
+      "cuisines": ["和果子", "葛切", "抹茶"],
+      "award": { "kind": "none" },
+      "description": "祇园四条通上的老字号和果子店，喫茶室的招牌是葛切（くずきり），可选黑蜜或白蜜；也有抹茶配上生果子。适合逛完清水寺、八坂神社后歇脚。",
+      "address": "264 Gionmachi Kitagawa, Higashiyama-ku, Kyoto 605-0073",
+      "coordinates": { "latitude": 35.0040119, "longitude": 135.7747439 },
+      "menus": [
+        {
+          "name": "くずきり（葛切，黑蜜或白蜜）",
+          "meal": "snack",
+          "price": 1600,
+          "basis": "perDish",
+          "tax": "unknown",
+          "includes": "四条本店喫茶菜单 PDF 标价 1,600 日元。PDF 没有标日期，也没写明是否含税。",
+          "sourceURL": "https://www.kagizen.co.jp/cdn/shop/files/shops-honten.pdf?v=2246264515925565724",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "抹茶（おうす）或冰绿茶配上生果子",
+          "meal": "snack",
+          "price": 1530,
+          "basis": "perSet",
+          "tax": "unknown",
+          "includes": "四条本店喫茶菜单 PDF 标价 1,530 日元；单点抹茶或冰绿茶各 850 日元。PDF 没写明是否含税。",
+          "sourceURL": "https://www.kagizen.co.jp/cdn/shop/files/shops-honten.pdf?v=2246264515925565724",
+          "checkedAt": "2026-09-24"
+        },
+        {
+          "name": "わらびもち（蕨饼）",
+          "meal": "snack",
+          "price": 1400,
+          "basis": "perDish",
+          "tax": "unknown",
+          "includes": "四条本店喫茶菜单 PDF 标价 1,400 日元。PDF 没写明是否含税。",
+          "sourceURL": "https://www.kagizen.co.jp/cdn/shop/files/shops-honten.pdf?v=2246264515925565724",
+          "checkedAt": "2026-09-24"
+        }
+      ],
+      "booking": {
+        "url": "https://www.kagizen.co.jp/pages/shops-honten",
+        "policy": "官网店铺页和常见问题都写明：四条本店喫茶不接受预约。（高台寺店可付席料预约，不是本条目。）",
+        "availability": "walkIn",
+        "checkedAt": "2026-09-24"
+      },
+      "hours": "官网（2026-09-24 核对）：喫茶 10:00–18:00，最后点餐 17:30（视拥挤程度可能提前）；和果子销售 9:30–18:00；每周一定休，遇节假日改为次个工作日休息。",
+      "durationMinutes": 40,
+      "closedWeekdays": [1],
+      "tips": [
+        "喫茶不接受预约，红叶季下午可能要等位（规划判断）。",
+        "周一定休；本包安排在第 1 天（周二）。",
+        "菜单 PDF 没标日期、没写明是否含税，价格以店内为准。"
+      ],
+      "sources": [
+        { "title": "鍵善良房官网 · 四条本店（营业时间、定休日、预约）", "url": "https://www.kagizen.co.jp/pages/shops-honten", "checkedAt": "2026-09-24" },
+        { "title": "鍵善良房 · 四条本店喫茶菜单 PDF", "url": "https://www.kagizen.co.jp/cdn/shop/files/shops-honten.pdf?v=2246264515925565724", "checkedAt": "2026-09-24" },
+        { "title": "鍵善良房官网 · 常见问题（喫茶预约）", "url": "https://www.kagizen.co.jp/pages/faq", "checkedAt": "2026-09-24" },
+        { "title": "日本邮政 · 京都市东山区邮编一览（祇園町北側 605-0073）", "url": "https://www.post.japanpost.jp/cgi-zip/zipcode.php?pref=26&city=1261050", "checkedAt": "2026-09-24" },
+        { "title": "OpenStreetMap way 291412090（坐标）", "url": "https://www.openstreetmap.org/way/291412090", "checkedAt": "2026-09-24" }
+      ],
+      "depth": "detailed",
+      "checkedAt": "2026-09-24",
+      "pricingStatus": "verified"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": "d0-snack-gion",
+      "title": "祇园下午茶：葛切",
+      "day": 0,
+      "meal": "snack",
+      "restaurantIDs": ["kagizen-yoshifusa-shijo"],
+      "reason": "从清水寺、三年坂走到八坂神社后，鍵善良房就在四条通北侧，步行可达（规划估计）。第 1 天是周二，不碰周一定休。喫茶不接受预约。"
+    },
+    {
+      "id": "d1-lunch-arashiyama",
+      "title": "岚山午餐：汤豆腐或精进料理",
+      "day": 1,
+      "meal": "lunch",
+      "restaurantIDs": ["yudofu-sagano", "shigetsu-tenryuji"],
+      "reason": "两家都在天龙寺旁，看完竹林和天龙寺直接吃，下午再去金阁寺。想吃汤豆腐选嵯峨野；想吃寺院精进料理选篩月，但要提前 2–3 天预约。第 2 天是周三，两家都不在固定休息日。"
+    },
+    {
+      "id": "d1-dinner-pontocho",
+      "title": "河原町晚餐：蘸面乌冬",
+      "day": 1,
+      "meal": "dinner",
+      "restaurantIDs": ["omen-pontocho"],
+      "reason": "逛完锦市场步行到四条先斗町（规划估计约 10 分钟）。周三正常营业，晚市 17:00–21:00，不接受预约。下午在锦市场可以先吃こんなもんじゃ的豆乳甜甜圈，但要站在店前吃完。"
+    },
+    {
+      "id": "d2-lunch-karasuma",
+      "title": "二条城后午餐：京都家常菜定食",
+      "day": 2,
+      "meal": "lunch",
+      "restaurantIDs": ["kyosaimi-nomura-karasuma"],
+      "reason": "二条城出来坐地铁东西线到乌丸御池，吃完再坐东西线去蹴上，接南禅寺和哲学之道。第 3 天是周四，篩月定休、おめん可能休息，这家官网写无定休日。最后点餐 14:00。"
+    }
+  ],
+  "guides": [
+    {
+      "id": "kyoto-dining-tips",
+      "title": "京都用餐小贴士",
+      "summary": "价格怎么看、税怎么算、哪些店要预约，以及锦市场的规矩。",
+      "body": [
+        "日本法规要求商家对消费者标示含税总价（国税厅 No.6902「総額表示」）。本包里官网写明「税込」的价格记为含税，官网没写明的记为「未注明」，不自行推算。",
+        "现行消费税：标准税率 10%，外带食品等适用 8% 轻减税率；堂食（外食）不适用轻减税率（国税厅 No.6102）。",
+        "国税厅和财务省 2026-09-15 开设了特设网站：按内阁决定的大纲，拟于 2027-04-01 至 2029-03-31 下调饮食料品的消费税率，要等法案通过才生效。本次出行（2027-11）落在这段时间里，外带食品的价签可能和本包记录的不同，以店内标价为准；细则本轮没有读取。",
+        "锦市场官方请求：不要边走边吃，请在购买的店门前或店内吃完。",
+        "第 3 天是周四：篩月周四定休，おめん写「木曜不定休」。第 3 天午餐推荐的是官网写无定休日的京菜味のむら乌丸本店。",
+        "篩月的套餐需提前 2–3 天预约；おめん先斗町店、京菜味のむら乌丸本店、鍵善良房四条本店喫茶都不接受预约。加入行程不代表已经订好。",
+        "米其林 2027 年版京都大阪名单将于 2027-02-16 公布，早于出行，到时复核篩月的必比登。"
+      ],
+      "restaurantIDs": ["yudofu-sagano", "shigetsu-tenryuji", "omen-pontocho", "kyosaimi-nomura-karasuma", "konnamonja-nishiki", "kagizen-yoshifusa-shijo"],
+      "sources": [
+        { "title": "国税庁 No.6902「総額表示」の義務付け", "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6902.htm", "checkedAt": "2026-09-24" },
+        { "title": "国税庁 No.6102 消費税の軽減税率制度", "url": "https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6102.htm", "checkedAt": "2026-09-24" },
+        { "title": "国税庁・財務省 消費税率引下げ特設サイト（2026-09-15）", "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/zeiritsuhikisage.htm", "checkedAt": "2026-09-24" },
+        { "title": "京都锦市场商店街官网 · Our requests to visitors", "url": "https://www.kyoto-nishiki.or.jp/en/manner/", "checkedAt": "2026-09-24" },
+        { "title": "米其林指南 · 2027 年东京、京都大阪、奈良名单公布日期预告", "url": "https://guide.michelin.com/jp/en/article/news-and-views/michelin-guide-ceremony-tokyo-kyoto-osaka-nara-2027-selection-save-the-date", "checkedAt": "2026-09-24" }
+      ]
+    }
+  ]
+}

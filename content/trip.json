@@ -1,0 +1,38 @@
+{
+  "id": "kyoto-2027-autumn-v1",
+  "appName": "京都三日",
+  "tagline": "红叶季的三天京都 · 由 AI Agent 按官方来源调研",
+  "destination": {
+    "name": "京都",
+    "nameEn": "Kyoto",
+    "countryCode": "JP",
+    "addressSuffix": "Kyoto",
+    "postcodePattern": "\\d{3}-\\d{4}"
+  },
+  "timezone": "Asia/Tokyo",
+  "startDate": "2027-11-16",
+  "endDate": "2027-11-18",
+  "departureDate": "2027-11-15",
+  "homeCity": "上海",
+  "partySize": 2,
+  "currency": {
+    "local": "JPY",
+    "home": "CNY",
+    "localSymbol": "JP¥",
+    "homeSymbol": "¥",
+    "homePerLocal": 0.0426,
+    "rateDate": "2026-09-24",
+    "rateSource": "https://www.chinamoney.com.cn/chinese/bkccpr/"
+  },
+  "map": {
+    "center": [35.0, 135.735],
+    "span": [0.11, 0.14],
+    "bounds": { "minLat": 34.93, "maxLat": 35.06, "minLon": 135.66, "maxLon": 135.81 }
+  },
+  "speech": { "language": "ja-JP", "label": "日语" },
+  "attributions": [
+    { "label": "地点坐标：© OpenStreetMap contributors（ODbL）", "url": "https://www.openstreetmap.org/copyright" },
+    { "label": "实景照片：Wikimedia Commons，各自许可见照片署名", "url": "https://commons.wikimedia.org/" },
+    { "label": "示例文字与数据：CC0 1.0", "url": "https://creativecommons.org/publicdomain/zero/1.0/" }
+  ]
+}

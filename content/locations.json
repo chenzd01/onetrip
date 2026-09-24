@@ -1,0 +1,116 @@
+{
+  "attribution": "© OpenStreetMap contributors",
+  "license": "ODbL-1.0",
+  "checkedAt": "2026-09-24",
+  "notes": "坐标是参考点，不保证是入口：寺社与城郭取 OpenStreetMap 主体建筑或院落要素的中心点，街道与步道取代表性路段的中心点。英文地址的门牌与邮编来自运营方官网或日本邮政邮编查询，用于复制给司机。",
+  "locations": {
+    "fushimi-inari": {
+      "name": "Fushimi Inari Taisha",
+      "address": "68 Fukakusa Yabunouchi-cho, Fushimi-ku, 612-0882 Kyoto",
+      "coordinates": [
+        34.967173,
+        135.7733546
+      ],
+      "source": "https://www.openstreetmap.org/way/899425893"
+    },
+    "kiyomizu-dera": {
+      "name": "Kiyomizu-dera",
+      "address": "1-294 Kiyomizu, Higashiyama-ku, 605-0862 Kyoto",
+      "coordinates": [
+        34.994303,
+        135.7844389
+      ],
+      "source": "https://www.openstreetmap.org/way/336641107"
+    },
+    "sannenzaka": {
+      "name": "Sannenzaka (Sanneizaka) Slope",
+      "address": "Sannenzaka, Kiyomizu 2-chome, Higashiyama-ku, 605-0862 Kyoto",
+      "coordinates": [
+        34.9963406,
+        135.7808783
+      ],
+      "source": "https://www.openstreetmap.org/way/179116810"
+    },
+    "yasaka-shrine": {
+      "name": "Yasaka Shrine",
+      "address": "625 Gionmachi Kitagawa, Higashiyama-ku, 605-0073 Kyoto",
+      "coordinates": [
+        35.0036027,
+        135.7782611
+      ],
+      "source": "https://www.openstreetmap.org/way/328903218"
+    },
+    "gion-hanamikoji": {
+      "name": "Hanamikoji Street, Gion",
+      "address": "Hanamikoji-dori, Gionmachi Minamigawa, Higashiyama-ku, 605-0074 Kyoto",
+      "coordinates": [
+        35.0026541,
+        135.7748676
+      ],
+      "source": "https://www.openstreetmap.org/way/27908626"
+    },
+    "arashiyama-bamboo": {
+      "name": "Arashiyama Bamboo Grove",
+      "address": "Chikurin-no-Komichi, Saga-Tenryuji Susukinobaba-cho, Ukyo-ku, 616-8385 Kyoto",
+      "coordinates": [
+        35.0167419,
+        135.6711482
+      ],
+      "source": "https://www.openstreetmap.org/relation/17656638"
+    },
+    "tenryu-ji": {
+      "name": "Tenryu-ji Temple",
+      "address": "68 Saga-Tenryuji Susukinobaba-cho, Ukyo-ku, 616-8385 Kyoto",
+      "coordinates": [
+        35.0162243,
+        135.6729408
+      ],
+      "source": "https://www.openstreetmap.org/way/409723494"
+    },
+    "kinkaku-ji": {
+      "name": "Kinkaku-ji (Rokuon-ji)",
+      "address": "1 Kinkakuji-cho, Kita-ku, 603-8361 Kyoto",
+      "coordinates": [
+        35.0395293,
+        135.7295373
+      ],
+      "source": "https://www.openstreetmap.org/way/98115917"
+    },
+    "nishiki-market": {
+      "name": "Nishiki Market",
+      "address": "Nishikikoji-dori (Teramachi to Takakura), 609 Nishidaimonji-cho, Nakagyo-ku, 604-8054 Kyoto",
+      "coordinates": [
+        35.0050244,
+        135.7655699
+      ],
+      "source": "https://www.openstreetmap.org/way/772134672"
+    },
+    "nijo-castle": {
+      "name": "Nijo-jo Castle",
+      "address": "541 Nijojo-cho, Nijo-dori Horikawa Nishi-iru, Nakagyo-ku, 604-8301 Kyoto",
+      "coordinates": [
+        35.0140076,
+        135.7485369
+      ],
+      "source": "https://www.openstreetmap.org/way/57111281"
+    },
+    "philosophers-path": {
+      "name": "Philosopher's Path (north section)",
+      "address": "Tetsugaku-no-michi, Jodoji Kamiminamida-cho, Sakyo-ku, 606-8405 Kyoto",
+      "coordinates": [
+        35.026151,
+        135.7955238
+      ],
+      "source": "https://www.openstreetmap.org/way/593317542"
+    },
+    "ginkaku-ji": {
+      "name": "Ginkaku-ji (Jisho-ji)",
+      "address": "2 Ginkakuji-cho, Sakyo-ku, 606-8402 Kyoto",
+      "coordinates": [
+        35.0268996,
+        135.7983714
+      ],
+      "source": "https://www.openstreetmap.org/way/105817561"
+    }
+  }
+}

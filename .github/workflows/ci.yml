@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  content-and-backend:
+    name: Content, backend, privacy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # the privacy scan also reads git history
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow
+      - run: python scripts/verify_content.py --require-complete
+      - run: python scripts/build_ios_resources.py
+      - run: python scripts/verify_content.py --built-catalog
+      - run: python -m unittest discover -s scripts -p 'test_*.py'
+      - run: python -m unittest discover -s server -p 'test_*.py'
+      - run: python -m unittest discover -s deploy -p 'test_*.py'
+      - run: python scripts/privacy_check.py --history
+
+  ios:
+    name: iOS build and unit tests
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install Pillow
+      - run: brew install xcodegen
+      - run: cp ios/Signing.example.xcconfig ios/Signing.xcconfig
+      - run: python scripts/build_ios_resources.py
+      - run: xcodegen generate --spec ios/project.yml
+      - run: xcodebuild test -project ios/TripJournal.xcodeproj -scheme TripJournal -destination 'platform=iOS Simulator,name=iPhone 17 Pro' -quiet

@@ -1,0 +1,19 @@
+[Unit]
+Description=Trip journal sync server (JSON API for the iOS app)
+After=network.target
+[Service]
+User=trip-journal
+Group=trip-journal
+WorkingDirectory=/opt/trip-journal
+# TRIP_ORIGIN, TRIP_COOKIE_PATH, TRIP_NATIVE_KEY_SHA256, TRIP_CATALOG ... see deploy/trip-server.env.example
+EnvironmentFile=/etc/trip-journal.env
+ExecStart=/usr/bin/python3 /opt/trip-journal/server/trip_server.py serve --data-dir /var/lib/trip-journal
+Restart=on-failure
+UMask=0077
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/var/lib/trip-journal
+[Install]
+WantedBy=multi-user.target
